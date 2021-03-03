@@ -1,0 +1,768 @@
+url;segment_no;cumle_icerigi;sozcuk_sayisi
+https://shiftdelete.net/p1;1;28 Nisan 2020 Salı 13 15 Msvcp140.dll hatası özellikle PUBG oynamak isteyenlerin son dönemde sıkça gördüğü bir hata.;13
+https://shiftdelete.net/p1;2;Bu yazımızda sizlere msvcp140.dll nedir msvcp140.dll hatası çözümü nasıl yapılır yani diğer adıyla “msvcp140.dll missing” hatasını ortadan kaldırma nasıl oluyor bunlardan bahsedeceğiz.;18
+https://shiftdelete.net/p1;3;Bunların yanı sıra msvcp140.dll indir sorgusu sırasında çıkan güvenilir birkaç siteden bahsedecek ve sağlıklı bir DLL dosyası bulmanızı sağlayacağız.;18
+https://shiftdelete.net/p1;4;Fakat öncelikle bilmeyenler için “DLL” dosyası nedir bundan bahsetmek istiyoruz.;9
+https://shiftdelete.net/p1;5;“DLL” İngilizce açılımı “Dynamic Link Libraries” olan ve Türkçe olarak “Dinamik Bağlantı Kütüphanesi” diyebileceğimiz bu dosyalar farklı programların benzer işlemler yaparken aynı kaynaktan faydalanmalarını sağlar.;20
+https://shiftdelete.net/p1;6;Bu şekilde hem bellek üzerine binebilecek fazla yükten kurtulmuş olunur hem de programların ya da bilgisayarın daha etkili ve hızlı bir şekilde çalışmasına olanak sağlanır.;25
+https://shiftdelete.net/p1;7;Bu dosyaların ses görüntü ya da programların başlatılmasına olanak sağlamak gibi özellikleri vardır.;13
+https://shiftdelete.net/p1;8;Bu sebeple de bilgisayarlarımızın vazgeçilmezi olan küçük dosyaları haline gelmişlerdir.;10
+https://shiftdelete.net/p1;9;Yazımıza ilk olarak msvcp140.dll nedir ve hatası neden olur sorusundan bahsederek başlayalım.;11
+https://shiftdelete.net/p1;10;Msvcp140.dll hatası nedir?;2
+https://shiftdelete.net/p1;11;– Neden olur?;2
+https://shiftdelete.net/p1;12;Msvcp140.dll hatası zaman zaman ortaya çıkan yaygın bir hatadır.;8
+https://shiftdelete.net/p1;13;Bu hata çoğunlukla kullanıcı online bir oyun Skype ya da diğer bir yardımcı uygulama açmaya çalıştığı sırada ortaya çıkabilir.;19
+https://shiftdelete.net/p1;14;Msvcp140.dll hatası alıyorsanız bu hata gerekli dosyanın kaybolduğu bozulduğu ya da düzgün çalışmadığı anlamına gelir.;14
+https://shiftdelete.net/p1;15;Bu sebeple ilgili program msvcp140.dll dosyası olmadan ya da onarılmadan çalışmaz.;10
+https://shiftdelete.net/p1;16;Eğer bilgisayarınızda Visual C++ Redistributable for Visual Studio 2015 yüklü değilse msvcp140.dll dosyası ile iletişime geçen hiçbir oyun ya da program çalışmayacaktır.;20
+https://shiftdelete.net/p1;17;Bunun sebebi de bu veri paketinin gerekli olan tüm “DLL” dosyalarını bulmaya yaramasıdır.;12
+https://shiftdelete.net/p1;18;Birçok durumda mscvp140.dll hatası arkasındaki asıl suçlu dosyanın bozulmuş olabilmesi ya da zararlı yazılım bulaşmış olması olabilir.;16
+https://shiftdelete.net/p1;19;Msvcp140.dll nedir ve neden olur artık biliyoruz diyebiliriz.;7
+https://shiftdelete.net/p1;20;Fakat msvcp140.dll hatası çözümü uygulanırken dikkat edilmesi gereken hususlar var mı hatayı çözmeden ona da bir değinelim istiyoruz.;17
+https://shiftdelete.net/p1;21;Msvcp140.dll hatası çözümü yaparken dikkat edilmesi gerekenler Msvcp140.dll hatası çözümü yapmadan önce hangi yolu kullanarak sorunu gidereceğiniz hakkında dikkat edilmesi gereken şeyler bulunmakta.;21
+https://shiftdelete.net/p1;22;Örneğin;
+https://shiftdelete.net/p1;23;Ancak msvcp140.dll indir şeklinde sorgu yaptıktan sonra girdiğiniz internet sitesi güvenilir değilse ya da bu konuda yeterli deneyime sahip değilseniz zararlı yazılım içeren bir dosya indirmeniz mümkündür.;26
+https://shiftdelete.net/p1;24;Bu nedenle internet üzerinden msvcp140.dll hatası çözümü şeklinde arama yapmanızın ardından bulduğunuz yollar içerisinden kendi başınıza kolaylıkla yapamayacağınızı düşündüğünüz bir seçenek varsa lütfen bu seçeneği uygulamaktan kaçının.;26
+https://shiftdelete.net/p1;25;Aksi halde istemediğiniz sonuçlar ortaya çıkabilir.;6
+https://shiftdelete.net/p1;26;Msvcp140.dll hatası giderilmediği gibi başka sorunlar da böylelikle meydana gelebilir.;9
+https://shiftdelete.net/p1;27;Msvcp140.dll nedir ve bu dosya ile ilgili bir hata giderilirken dikkat etmeli miyiz aktarmaya çalıştık.;14
+https://shiftdelete.net/p1;28;Gelin bir de sizin için seçtiğimiz msvcp140.dll hatası çözümü yollarına değinelim.;10
+https://shiftdelete.net/p1;29;Msvcp140.dll hatası çözümü 1 – Geri dönüşüm kutusu “Msvcp140.dll missing cannot find msvcp140.dll please reinstall this application” ya da “kod yürütülmesine devam edemiyor çünkü msvcp140.dll bulunamadı” şeklinde bir hata alıyorsanız bunun sebebi ilgili dosyayı yanlışlıkla silmiş olabilmenizden kaynaklanıyor olabilir.;30
+https://shiftdelete.net/p1;30;Eğer bu silme işlemini “Shift+Delete” şeklinde yapmadıysanız msvcp140.dll dosyası bilgisayarınızdaki “Geri Dönüşüm Kutusu” içinde olmalıdır.;11
+https://shiftdelete.net/p1;31;Bu dosyayı geri almak için “Geri Dönüşüm Kutusu” içine girin ve msvcp140.dll dosyası orada ise dosya üzerine “sağ tık” ile basın ve “Geri Yükle” seçeneğine tıklayın.;19
+https://shiftdelete.net/p1;32;Bu sayede almış olduğunuz msvcp140.dll missing hatasını çözmüş olacağız.;8
+https://shiftdelete.net/p1;33;Msvcp140.dll hatası çözümü 2 – Yeniden yükleme yapma Eğer herhangi bir programı çalıştırırken “program msvcp140.dll bilgisayarınızda eksik cannot find msvcp140.dll please reinstall this application” ya da “kod yürütülmesine devam edemiyor çünkü msvcp140.dll bulunamadı” şeklinde bir hata alıyor ama bu hatayı başka programlarda almıyorsanız programı yeniden yüklemeyi deneyebilirsiniz.;37
+https://shiftdelete.net/p1;34;Bu şekilde kayıp olarak görülen msvcp140.dll dosyası yeniden yükleme ile program tarafından görülebilir.;12
+https://shiftdelete.net/p1;35;Programı silmek için ayarlar kısmından “Uygulamalar ve Özellikler” kısmına girip başlatmaya çalıştığınız sırada hata veren programı seçip kaldırmanız gerekiyor.;17
+https://shiftdelete.net/p1;36;Ardından elinizde varsa yükleme dosyasından yoksa internet üzerinden edinerek uygulamayı tekrar yükleyebilirsiniz.;12
+https://shiftdelete.net/p1;37;Msvcp140.dll hatası çözümü 3 – Windows güncellemeleri Windows güncellemeleri bilgisayarınızın düzgün bir şekilde çalışması için oldukça önemlidir.;14
+https://shiftdelete.net/p1;38;Ayrıca güncellemeler ile gelen güvenlik eklemeleri de yazılımların hackerlar tarafından kullanılmasını zorlaştıracaktır.;12
+https://shiftdelete.net/p1;39;Bunun dışında güncelleştirmeleri yapmak msvcp140.dll missing hatasını da çözebilir.;8
+https://shiftdelete.net/p1;40;Windows güncelleştirmelerini yapmak için öncelikle “Ayarlar” kısmına girmemiz gerekiyor.;8
+https://shiftdelete.net/p1;41;Daha sonrasında “Güncelleştirme ve Güvenlik” kısmına girerek “Güncelleştirmeleri Denetle” butonuna tıklayarak güncelleştirme işlemini yapabiliriz.;10
+https://shiftdelete.net/p1;42;Msvcp140.dll hatası çözümü 4 – Sistem dosya denetçisi Bu seçenek “Sistem Dosya Denetçisi” olarak anılan dahili bir arama sistemi.;14
+https://shiftdelete.net/p1;43;Sistem dosyaları içinde bozulan olduğunda SFC taraması dosyayı buluyor ve ardından onarıyor.;12
+https://shiftdelete.net/p1;44;Bu sayede bozuk olduğu düşünülen msvcp140.dll dosyası da onarılmış oluyor.;9
+https://shiftdelete.net/p1;45;Öncelikle görev çubuğunda “Mercek” simgesi üzerine tıklayarak “CMD” yazalım ve çıkan sonuca sağ tıklayıp yönetici olarak çalıştıralım.;15
+https://shiftdelete.net/p1;46;“Komut İstemi” penceresine “sfc/scannow” yazalım ve “enter” tuşuna basalım.;5
+https://shiftdelete.net/p1;47;Bu işlem bozuk dosyaları arayacak ve onaracaktır.;7
+https://shiftdelete.net/p1;48;Bu işlem msvcp140.dll dosyasının Microsoft tarafından sunulan bir kopyasını sağlayacağı için oldukça güvenilir.;12
+https://shiftdelete.net/p1;49;Msvcp140.dll nedir msvcp140 dll hatası çözümü kapsamında şu ana kadar anlatmaya çalıştığımız yöntemler en güvenli olan yöntemler içerisinde diyebiliriz.;17
+https://shiftdelete.net/p1;50;Peki daha az güvenli olarak gördüğümüz yöntemler yok mu?;9
+https://shiftdelete.net/p1;51;Msvcp140.dll indir 32 – 64 bit Msvcp140.dll nedir diye bir arama yapıyorsanız msvcp140.dll hatası almışsınız demektir.;10
+https://shiftdelete.net/p1;52;Ardından da çözüm yolları arayışı içine yönelmeniz oldukça normal.;9
+https://shiftdelete.net/p1;53;Fakat msvcp140.dll hatası çözümü kapsamında güvenli yollar varken pek güvenli olmayan yollar da vardır.;13
+https://shiftdelete.net/p1;54;Bunlardan en yaygını msvcp140.dll dosyasını elle indirmek diyebiliriz.;7
+https://shiftdelete.net/p1;55;Güvenli olarak görmeyişimizin sebeplerinden biri msvcp140.dll dosyasını sağlayan sitelerin bazılarının zararlı yazılım içeren dosyalar sunabilmesinden kaynaklanıyor.;15
+https://shiftdelete.net/p1;56;Peki msvcp140.dll indir işlemi için hangi siteler daha güvenli buna değinelim.;10
+https://shiftdelete.net/p1;57;Güvenli bir dosyaya ulaşmak için kullanıcılara bu dosyaları sağlayan resmi bir site bulunmakta www.dll files.com.;13
+https://shiftdelete.net/p1;58;Site üzerinden işletim sisteminize uygun olan dosya hangisi ise ona dikkat ederek indirmeyi gerçekleştirebilirsiniz.;14
+https://shiftdelete.net/p1;59;Yani sisteminiz 64 bit ise msvcp140.dll 64 bit indir ya da msvcp140.dll download seçeneğine tıklamalısınız.;11
+https://shiftdelete.net/p1;60;Bağlantıya buraya tıklayarak ulaşabilirsiniz.;4
+https://shiftdelete.net/p1;61;Dosyayı indirdikten sonra resmi bir site de olsa taramadan geçirmeyi unutmayın.;11
+https://shiftdelete.net/p1;62;Çünkü popüler olan bu tarz sitelere zararlı yazılım yüklemeyi başaran birçok kişi bulunmaktadır.;13
+https://shiftdelete.net/p1;63;Msvcp140.dll nereye atılır?;2
+https://shiftdelete.net/p1;64;Msvcp140.dll indir işlemini gerçekleştirmenizin ardından eğer sıkıştırılmış bir dosya şeklinde geldiyse dosyayı çıkarın.;12
+https://shiftdelete.net/p1;65;İçinde bulunan dosyayı kopyalayın.;4
+https://shiftdelete.net/p1;66;Sisteminiz 64 bit ise C /Windows/System32 yolunu izleyerek buraya atın.;8
+https://shiftdelete.net/p1;67;Sisteminiz 32 bit ise C /Windows/SysWOW64 yolunu izleyerek buraya atın.;8
+https://shiftdelete.net/p1;68;Kopyaladığınız dosyayı var olan ile değiştirirken sizden onay isteyebilir.;9
+https://shiftdelete.net/p1;69;Onaylayın.;1
+https://shiftdelete.net/p1;70;Msvcp140.dll hatası nerelerde görülür?;3
+https://shiftdelete.net/p1;71;Eğer bilgisayarınızı düzgün bir şekilde kapatmıyorsanız ya da virüs bulamış ise bu durum “DLL” dosyalarınızı bozabilir.;15
+https://shiftdelete.net/p1;72;Böyle bir durumda siz daha farkına bile varmadan msvcp140.dll hatası alabilirsiniz.;10
+https://shiftdelete.net/p1;73;Bu hata genellikle yazımızın başında da bahsettiğimiz gibi belli uygulamaların başlangıcında bulunamadığı ya da okunamadığı durumlarda “msvcp140.dll missing” hatası olarak görülür.;19
+https://shiftdelete.net/p1;74;En çok karşılaşılan “DLL” hatalarından biri olan msvcp140.dll hatasının çözümü konusunda bilgi vermeye çalıştık.;12
+https://shiftdelete.net/p1;75;Yazımız içerisinde msvcp140.dll nedir diyerek başladık ve en son olarak nerede görülür diyerek bitirdik.;13
+https://shiftdelete.net/p1;76;Umarız sizler için yararlı bir rehber olmuştur.;7
+https://shiftdelete.net/p2;1;26 Haziran 2019 Çarşamba 11 35 Huawei’nin yakın zamanda EMUI 9.1 güncellemesi alacak olan 49 telefon modelinin hangileri olduğu ortaya çıkmıştı.;14
+https://shiftdelete.net/p2;2;Yaz sezonu boyunca güncellemeye kavuşacak olan telefon modelleri de bu listeye yer aldı.;13
+https://shiftdelete.net/p2;3;Güncellemeler yavaş yavaş gelmeye başlıyor.;5
+https://shiftdelete.net/p2;4;Huawei P20 Lite ve Mate 20 EMUI 9.1 güncellemesi alan modeller oldu.;9
+https://shiftdelete.net/p2;5;Ayrıca Mate 20 Pro modeli de beklenen güncellemeyi aldı.;8
+https://shiftdelete.net/p2;6;Huawei P20 Lite ve Mate 20 EMUI 9.1 almaya başladı Huawei tarafından yayınlanan bir fotoğrafla yaz sezonunda hangi Huawei modellerinin EMUI 9.1 alacağı açıklanmıştı.;20
+https://shiftdelete.net/p2;7;Haziran 2019 takvimi içinde yer alan modellerden Mate 20 ve P20 Lite EMUI 9.1 güncellemesi almaya başladı.;13
+https://shiftdelete.net/p2;8;Reddit’te yer alan bilgilere göre İngiltere ve Almanya gibi ülkelerde yeni güncellemeyi indirmeye başlayan kullanıcıların olduğu ortaya çıktı.;17
+https://shiftdelete.net/p2;9;Önümüzdeki günlerde güncellemenin küresel olarak yayılacağı düşünülüyor.;7
+https://shiftdelete.net/p2;10;Tahminlere göre ay bitmeden daha fazla ülkede Mate 20 ve P20 Lite kullanıcıları EMUI 9.1 güncellemesine kavuşacak.;14
+https://shiftdelete.net/p2;11;Haziran ayının ardından Temmuz 2019’da da aşağıdaki modeller EMUI 9.1 güncellemesi alacak.;10
+https://shiftdelete.net/p2;12;P20 / P20 Pro Nova 3 / 3i P30 Lite Mate 10/10 Pro / 10 RS Porsche Tasarımı Mate 9 / Mate 9 Pro Y9 2019 Y6 Pro 2019 Y5 2019 Huawei P10 ve P10 plus modelleri de ağustos ayının içinde güncelleme alacak.;22
+https://shiftdelete.net/p3;1;31 Mayıs 2019 Cuma 10 58 Çinli Huawei amiral gemisi modelleri için yeni güncelleme yayınlamaya hazırlanıyor.;12
+https://shiftdelete.net/p3;2;Yayınlanacak olan güncelleme ile birlikte DC karatma özelliği telefonlara geliyor.;10
+https://shiftdelete.net/p3;3;Huawei P30 Pro güncellemesi ile birlikte bu özelliğin yanında bazı iyileştirmeler de yapılacak.;12
+https://shiftdelete.net/p3;4;Huawei P30 Pro güncellemesi ile birlikte ekran titremeleri düzelecek Huawei P30 ve P30 Pro modelleri alacakları güncellemeyle birlikte DC karartma özelliğine sahip olacak.;20
+https://shiftdelete.net/p3;5;Yeni güncelleme ile birlikte telefon bulunduğu ortama göre ekran parlaklığını ayarlayabilecek.;11
+https://shiftdelete.net/p3;6;Bu sayede telefonların şarjının daha uzun süre dayanacağını söyleyebiliriz.;9
+https://shiftdelete.net/p3;7;Tabii DC karartma özelliği yalnızca ekran parlaklığı ile ilgili değil.;10
+https://shiftdelete.net/p3;8;Her piksele gönderilen akımı azaltan bu özellik sayesinde OLED ekranlarda yaşanan titreme sorununa da çare olabilecek.;16
+https://shiftdelete.net/p3;9;Huawei P30 Pro güncellemesi ilk olarak Çin’de yayınlanacak.;6
+https://shiftdelete.net/p3;10;400 MB büyüklüğündeki güncelleme aynı zamanda parmak izi okuyucuyu da optimize ediyor.;11
+https://shiftdelete.net/p3;11;DC karartma özelliği ilerleyen zamanda eski amiral gemisi modellerine de gelecek mi?;12
+https://shiftdelete.net/p3;12;Şimdilik bu sorunun yanıtı şimdilik bilinmiyor.;6
+https://shiftdelete.net/p3;13;400 MB boyutundaki Huawei P30 ve P30 Pro güncellemesinin ilerleyen zamanda farklı bölgelerde de yayınlanması bekleniyor.;13
+https://shiftdelete.net/p4;1;26 Mart 2020 Perşembe 14 33 Huawei P Serisi ailesinin yeni modellerini tanıttı.;9
+https://shiftdelete.net/p4;2;P40 Serisi’nin tanıtıldığı etkinlikte biz de yeni modelleri değerlendirdik.;7
+https://shiftdelete.net/p4;3;Saat 16 00’da başlayan Huawei canlı yayını ile yeni model ailesinin tüm özelliklerine yakından baktık.;13
+https://shiftdelete.net/p4;4;Huawei P40 Serisi’nin 26 Mart günü TSİ 16 00’da tanıtılacağı daha önce duyurulmuştu.;8
+https://shiftdelete.net/p4;5;Düzenlenen online global lansman için beklenen gün geldi.;8
+https://shiftdelete.net/p4;6;Huawei Tüketici Elektroniği Grubu CEO’su Richard Yu sözcülüğünde gerçekleştirilen yayını biz de canlı olarak izledik.;14
+https://shiftdelete.net/p4;7;Telefonların özelliklerini videonun altında bulabilirsiniz.;5
+https://shiftdelete.net/p4;8;Huawei P40 özellikleri Huawei’nin amiral gemisinin 6.1 inçlik OLED ekranı Full HD+ yani 1080×2340 piksel çözünürlük sunarken herhangi bir kavis bulunmuyor.;17
+https://shiftdelete.net/p4;9;Bu sayede Huawei P40 ile düz ekranlı telefonları seven kullanıcıların beğenisi kazanılıyor.;11
+https://shiftdelete.net/p4;10;60 Hz yenileme hızı olan bu ekran aynı zamanda parmak izi okuyucuyu barındırıyor.;12
+https://shiftdelete.net/p4;11;8 GB RAM ve 128 GB depolama alanı ile gelen telefon Kirin 990 işlemciden güç alıyor.;13
+https://shiftdelete.net/p4;12;Cihazın arka tarafında 50 Megapiksel f/1.9 diyaframa sahip geniş açılı RYYB ana kamera yer alıyor.;13
+https://shiftdelete.net/p4;13;Buna 16 Megapiksel f/2.2 diyaframa sahip ultra geniş açılı ve 8 Megapiksel f/2.4 diyaframa sahip telefoto kamera eşlik ediyor.;15
+https://shiftdelete.net/p4;14;3x optik yakınlaştırma yapabilen telefoto kameranın OIS ile gelmesi büyük avantaj.;10
+https://shiftdelete.net/p4;15;Ön tarafta ise 32 Megapiksel f/2.2 diyaframa sahip kamera ve derinlik algılama sensörü yer alıyor.;13
+https://shiftdelete.net/p4;16;3800 mAh kapasiteli bataryadan beslenen telefon 22.5W hızlı şarj desteğine sahip.;9
+https://shiftdelete.net/p4;17;Maalesef kablosuz şarj teknolojisini bu telefonda göremiyoruz.;7
+https://shiftdelete.net/p4;18;Çift ön kamerasını ekrana açılan delikte gördüğümüz telefonda 6.58 inç boyutunda ve 1200 x 2640p çözünürlüğünde OLED ekran bulunuyor.;16
+https://shiftdelete.net/p4;19;Bu ekran DCI P3 renk gamını desteklerken HDR10+ teknolojisini de destekliyor.;9
+https://shiftdelete.net/p4;20;Huawei P40 Pro’nun ekranı 90 Hz yenileme hızına sahip.;6
+https://shiftdelete.net/p4;21;Bu da telefonun daha akıcı ve hızlı bir ekran deneyimi sunmasına sebep oluyor.;13
+https://shiftdelete.net/p4;22;Huawei P30 Pro modeli ise 60 Hz yenileme hızına sahip bir ekrana ev sahipliği ediyordu.;13
+https://shiftdelete.net/p4;23;Bu model de tabii ki Kirin 990‘dan güç alıyor.;8
+https://shiftdelete.net/p4;24;8 GB RAM ile birlikte bizleri karşılayan telefonun depolama alanı tarafında ise UFS 3.0 standartında 128 GB ve 256 GB olmak üzere iki farklı varyasyonu bulunuyor.;22
+https://shiftdelete.net/p4;25;Telefonun hafızası Huawei tarafından satılan Nano Memory kartları ile birlikte 256 GB’a kadar artırılabiliyor.;12
+https://shiftdelete.net/p4;26;Telefonun arkasında 4 önünde ise çift kameraya yer veriliyor.;8
+https://shiftdelete.net/p4;27;Arkadaki kameralardan biri 50 Megapiksel çözünürlüğünde ve f/1.9 diyafram açıklığına sahip.;9
+https://shiftdelete.net/p4;28;Ayrıca telefonda ultra geniş açılı kameraya da yer veriliyor.;9
+https://shiftdelete.net/p4;29;Bu ultra geniş açılı kamera ise 40 Megapiksel çözünürlüğünde ve f/1.8 diyafram açıklığında.;11
+https://shiftdelete.net/p4;30;Telefoto kamera tarafına baktığımızda 12 Megapiksel çözünürlüğünde ve f/3.4 diyafram açıklığında.;9
+https://shiftdelete.net/p4;31;Öndeki çift kamera ise şu şekilde bir adet 32 Megapiksel çözünürlüğünde ve f/2.2 diyafram açıklığına sahip bir kamera ve ToF kamera mevcut.;20
+https://shiftdelete.net/p4;32;Huawei P40 Pro’nun batarya kapasitesi 4.200 mAh şeklinde.;5
+https://shiftdelete.net/p4;33;40W hızlı kablolu şarj desteğine sahip olan telefon kablosuz şarj tarafında da 40W desteğe sahip.;13
+https://shiftdelete.net/p4;34;P40 Pro Plus 6.58 inçlik 2640 x 1200 piksel çözünürlüğünde OLED ekrana sahip.;9
+https://shiftdelete.net/p4;35;Bu ekran 90 Hz yenileme hızı sunuyor.;6
+https://shiftdelete.net/p4;36;Ayrıca HDR10+ desteği ve DCI P3 desteği de mevcut.;7
+https://shiftdelete.net/p4;37;19.8 9 en/boy oranına sahip ekranın 441 ppi yoğunluk sunduğunu da belirtelim.;8
+https://shiftdelete.net/p4;38;Gücünü Kirin 990’dan alan telefonda 8 GB RAM kullanılıyor.;7
+https://shiftdelete.net/p4;39;256 GB ve 512 GB dahili depolama alanı bulunuyor.;7
+https://shiftdelete.net/p4;40;Ayrıca microSD kart girişi ile bu hafızayı 256 GB’a kadar artırmak mümkün.;10
+https://shiftdelete.net/p4;41;Bu arada telefonda UFS 3.0 desteği olduğunu da belirtelim.;8
+https://shiftdelete.net/p4;42;Telefon 50 Megapiksellik bir ana kameraya sahip.;6
+https://shiftdelete.net/p4;43;Ana kameraya 40 Megapiksel çözünürlüğünde bir ultra geniş açılı lens eşlik ediyor.;11
+https://shiftdelete.net/p4;44;Bir diğer kamera ise 240 mm’lik 8 Megapiksel çözünürlüğe f/4.4 diyafram değerine sahip telefoto lens.;11
+https://shiftdelete.net/p4;45;Telefon 10x gerçek optik yakınlaştırma özelliği ile ışık yolunu yüzde 178 oranında genişleten yenilikçi periskop tasarımına ve 100x SuperZoom dizisine sahip.;18
+https://shiftdelete.net/p4;46;Diğer telefoto lens de 8 Megapiksel çözünürlüğünde ve f/2.4 diyafram değerinde.;9
+https://shiftdelete.net/p4;47;80 mm’lik lens 3x optik yakınlaştırma yapıyor.;4
+https://shiftdelete.net/p4;48;Bu lens de OIS desteğine sahip.;6
+https://shiftdelete.net/p4;49;Bu kamera kurulumunu ToF sensör tamamlıyor.;6
+https://shiftdelete.net/p4;50;Telefon 4.200 mAh’lik bataryadan besleniyor.;3
+https://shiftdelete.net/p4;51;Bu batarya tabii ki ters şarj destekli.;7
+https://shiftdelete.net/p4;52;Ayrıca 40W kablosuz hızlı şarj desteği de bulunuyor.;7
+https://shiftdelete.net/p5;1;04 Haziran 2009 Perşembe 12 29 Günlerdir P55 anakartlar hakkında birçok dedikodu yapılıyordu.;8
+https://shiftdelete.net/p5;2;Bazıları P55 yongalarının SLI desteği olmayacağını savunuyordu.;6
+https://shiftdelete.net/p5;3;Dedikodular gerçek olmadı ve Intel Computex fuarında SLI destekli P55 yongasına sahip ürünlerini kullanıcıların beğenisine sundu.;15
+https://shiftdelete.net/p5;4;Aslında anakartlar üzerine baktığımızda NF200 yongasını göremedik.;6
+https://shiftdelete.net/p5;5;Bunun başlıca sebebi Nvidia’nın P55 yongasına SLI yetkilendirmesi yapmamasından kaynaklanıyor.;8
+https://shiftdelete.net/p5;6;Ama önümüzdeki günlerde bu sertifika Nvidia tarafından sağlanacak.;8
+https://shiftdelete.net/p5;7;SLI ekran kartı kullanıyor musunuz?;5
+https://shiftdelete.net/p5;8;Kullanıyorsanız yorumlarınızı buradan paylaşın.;4
+https://shiftdelete.net/p6;1;05 Ocak 2011 Çarşamba 08 30 Birçok açıdan geleceğin işlemci teknolojisine yön verecek olan Sandy Bridge mimarili işlemciler nihayet piyasaya çıktı.;17
+https://shiftdelete.net/p6;2;Bünyesinde işlemcinin yanı sıra bellek kontrolcüsü ve grafik işlemci de barındıran Sandy Bridge işlemcileri yavaş yavaş her şeyin tek bir silikon üzerinde toplanmasının ilk ve en önemli adımlarından biri.;29
+https://shiftdelete.net/p6;3;Intel Sandy Bridge Core i7 2600K İnceleme ve Test Intel her zaman olduğu gibi yeni işlemci serisi için yeni bir yonga seti çıkardı.;21
+https://shiftdelete.net/p6;4;Bu da eğer bu işlemcileri kullanmak istiyorsanız yeni bir anakart almanız gerektiği anlamına geliyor.;14
+https://shiftdelete.net/p6;5;Dizüstünde Sandy Bridge Fırtınası Intel ilk aşamada P67 ve H67 adlı iki farklı yonga seti sundu.;14
+https://shiftdelete.net/p6;6;H67 Sandy Bridge işlemcilerindeki grafik işlemciden faydalanabilirken P67 yonga seti daha yüksek performans isteyenlere hitap ediyor.;14
+https://shiftdelete.net/p6;7;P67 yonga seti ve ikinci nesil Core i işlemcilerinin diyagramı Karşılaştırmalı Test Intel’in en yeni yonga setini taşıyan anakartlar da dünyanın önde gelen markaları tarafından piyasaya sürülüyor.;25
+https://shiftdelete.net/p6;8;Bizler de daha bu anakartların dumanı üzerindeyken karşılaştırmalı bir test yapalım dedik.;12
+https://shiftdelete.net/p6;9;Testimize katılan ürünler ise sırasıyla şöyle Gigabyte P67A UD4 ASUS P8P67 PRO ve MSI P67A GD65.;11
+https://shiftdelete.net/p6;10;Eğer Intel Sandy Bridge tabanlı yeni bir sistem oluşturmak istiyorsanız anakart almadan önce bu testimizi okumanızı tavsiye ediyoruz.;18
+https://shiftdelete.net/p6;11;Gigabyte P67A UD4 LGA 1155 soketine sahip olan anakartta dört adet DDR3 bellek slotu yer alıyor.;12
+https://shiftdelete.net/p6;12;Hız aşırtmayla birlikte 2133 MHz’e kadar bellek desteği sunabilen kartın üzerine 16 GB DDR3 bellek takılabiliyor.;12
+https://shiftdelete.net/p6;13;Yeni nesille birlikte Intel’in resmi olarak destek verdiği SATA 6 Gbps portlarından Gigabyte P67A UD4‘ün üzerinde iki adet bulunuyor.;15
+https://shiftdelete.net/p6;14;Bunun yanı sıra 4 adet de SATA 3 Gbps portu var.;9
+https://shiftdelete.net/p6;15;P67A UD4 maksimum 16 GB DDR3 belleğe destek veriyor USB 3.0 girişleri de anakartta ihmal edilmemiş.;11
+https://shiftdelete.net/p6;16;İki tane harici ve bir tane dahili olmak üzere toplam 3 tane USB 3.0 portu bulunuyor.;14
+https://shiftdelete.net/p6;17;Kartın üzerindeki USB 2.0 girişi sayısı ise 8 adet harici ve 3 adet dahili bağlantıyla beraber 11 tane.;14
+https://shiftdelete.net/p6;18;Ultra Durable 3 Gigabyte P67A UD4 PCI Express 2.0 slotları açısından da zengin sayılabilecek bir anakart.;12
+https://shiftdelete.net/p6;19;Kartta bir adet PCI E x16 bir adet PCI E x8 ve üç adet PCI E x1 slotu bulunuyor.;16
+https://shiftdelete.net/p6;20;Ayrıca iki adet de PCI slotu yer alıyor.;8
+https://shiftdelete.net/p6;21;Tüm bileşenler dayanıklı malzemelerden üretilmiş P67A UD4’te Gigabyte’a özel bazı teknolojiler de yer alıyor.;11
+https://shiftdelete.net/p6;22;Bunların başında Ultra Durable 3 adı verilen dayanıklı malzeme standardı geliyor.;10
+https://shiftdelete.net/p6;23;Bu şekilde bileşenlerin çok uzun ömürlü olması hedeflenmiş.;8
+https://shiftdelete.net/p6;24;Bilgisayar kapalıyken cihazlarınızı şarj etmeye yarayan On/Off Charge USB üzerinden daha fazla güç çıkışı sağlayan USB Power gibi özelliklerin yanı sıra Dual BIOS ve SMART Recovery2 gibi özellikler de sistem güvenliği için önem taşıyor.;32
+https://shiftdelete.net/p6;25;Gigabyte P67A UD4′in fiyatı ise 224 $ + KDV olarak belirlenmiş.;6
+https://shiftdelete.net/p6;26;ASUS P8P67 PRO ASUS’un P67 yonga setini taşıyan ilk modellerinden biri olan P8P67 PRO sahip olduğu özelliklerle dikkat çeken bir anakart.;17
+https://shiftdelete.net/p6;27;Dört adet bellek slotu üzerinden en fazla 32 GB DDR3 bellek takılabilen kart hız aşırtma ile birlikte 2400 MHz’e kadar destek sunabiliyor.;18
+https://shiftdelete.net/p6;28;P8P67 PRO ASUS’un üst seviye P67 anakartlarından biri Kartın üzerinde dörder adet SATA 3 Gbps ve SATA 6 Gbps portu bulunuyor.;16
+https://shiftdelete.net/p6;29;Bunun dışında 2 adet de eSATA girişi yer alıyor.;8
+https://shiftdelete.net/p6;30;USB 3.0 ve Bluetooth P8P67 PRO Intel henüz resmi destek vermese de USB 3.0’e yer veriyor.;13
+https://shiftdelete.net/p6;31;İki adet harici USB 3.0’nın yanı sıra iki adet de dahili USB 3.0 bağlantısı bulunuyor.;13
+https://shiftdelete.net/p6;32;USB 2.0 portlarından ise harici 6 dahili 6 olmak üzere toplam 12 adet yer alıyor.;11
+https://shiftdelete.net/p6;33;Bunun dışında Firewire girişi de ihmal edilmemiş.;7
+https://shiftdelete.net/p6;34;Kartta Bluetooth desteği de bulunuyor PCI E slotlarına baktığımız zaman üç tane PCI x16 slotu görüyoruz.;15
+https://shiftdelete.net/p6;35;Ancak bunların hepsini x16 olarak kullanmak mümkün değil.;7
+https://shiftdelete.net/p6;36;Siyah olan slot x4 bant genişliğinde çalışıyor.;6
+https://shiftdelete.net/p6;37;Özel bir grafik arayüze sahip BIOS üzerinden detaylı ayarları ve hız aşırtma işlemlerini yapabilmek mümkün.;15
+https://shiftdelete.net/p6;38;Bunun dışında anakartta bulunan Bluetooth özelliği ile taşınabilir cihazlarınızla bağlantı kurabiliyorsunuz.;11
+https://shiftdelete.net/p6;39;ASUS P8P67 PRO modelinin fiyatı 226 $ + KDV.;5
+https://shiftdelete.net/p6;40;MSI P67 GD65 MSI’ın P67 yonga setine ilk adımlarından olan P67 GD65 firmanın bugüne kadar ürünlerinde tercih ettiği uzun ömürlü bileşenlerden üretilmiş.;16
+https://shiftdelete.net/p6;41;Military Class yani askeri dayanıklılık standartlarına göre üretilen bileşenler sayesinde anakartın ömrü çok uzun oluyor.;15
+https://shiftdelete.net/p6;42;Kartta OC Genie yongasının ikinci sürümü bulunuyor Bunun dışında yine MSI modellerinde görmeye alışık olduğumuz OC Genie yongası da yeni sürümüyle karşımızda.;22
+https://shiftdelete.net/p6;43;OC Genie sayesinde tek bir tuşla güvenli bir şekilde hız aşırtma yapabilmek mümkün oluyor.;14
+https://shiftdelete.net/p6;44;Giriş ve Çıkışlar MSI’a özel bu özelliklerin haricinde kartın üzerinde dörder adet SATA 6 Gbps ve SATA 3 Gbps portu yer alıyor.;19
+https://shiftdelete.net/p6;45;Ayrıca iki adet eSATA girişi de kartta bulunan özellikler arasında.;10
+https://shiftdelete.net/p6;46;Karttaki bileşenler askeri dayanıklılık standartlarına göre üretilmiş USB 3.0′ın yavaş yavaş standart hale geldiği son dönemde MSI bu modelinde de iki adet harici ve bir adet de dahili USB 3.0 bağlantısına yer vermiş.;31
+https://shiftdelete.net/p6;47;USB 2.0 bağlantılarının sayısı da toplam 9 adet.;6
+https://shiftdelete.net/p6;48;MSI P67A GD65 adlı bu anakart 199 $ + KDV fiyatla satılıyor.;7
+https://shiftdelete.net/p6;49;Test Sistemi İşlemci Intel Core i7 2600K Bellek 2 x 2 GB Team Xtreem DDR3 Güç kaynağı CoolerMaster 1000 watt Sabit disk Seagate Barracuda 1 5 TB Optik Sürücü LG 22X DVD yazıcı {GRAPH 971} {GRAPH 972} {GRAPH 973} {GRAPH 974} {GRAPH 975} {GRAPH 976} {GRAPH 977} {GRAPH 978} {GRAPH 979} {GRAPH 980} {GRAPH 981} {GRAPH 982} {GRAPH 983} {GRAPH 984} {GRAPH 985} {GRAPH 986} {GRAPH 987} {GRAPH 988} {GRAPH 989} {GRAPH 990} {GRAPH 991} {GRAPH 992} {GRAPH 993} Sonuç Olarak Intel’in yeni nesil Sandy Bridge işlemcilerinin gösterdiği performans genel olarak bizleri çok şaşırttı.;61
+https://shiftdelete.net/p6;50;Serinin en üst modeli olan Core i7 2600K gerçekten de birçok açıdan çok iyi bir işlemci.;14
+https://shiftdelete.net/p6;51;Bu işlemciyi kullanarak yaptığımız anakart testinde de teste katılan tüm modeller iyi sonuçlar verdi.;14
+https://shiftdelete.net/p6;52;Gigabyte ASUS ve MSI’ın P67 yonga setli ilk anakartları arasında performans ve teknik özellikler açısından çok büyük farklar yok.;17
+https://shiftdelete.net/p6;53;P67 yonga setli anakart testimizin birincisi ASUS P8P67 PRO Ancak yine de her testte olduğu gibi bir birinci çıkmak zorunda.;18
+https://shiftdelete.net/p6;54;Performans ve teknik özellikler konusunda yaptığımız detaylı değerlendirme sonucunda ASUS P8P67 PRO adlı anakart “Test Birincisi” oldu.;14
+https://shiftdelete.net/p6;55;Fiyat performans değerlendirmemizde ise MSI P67 GD65 adlı anakart “Uygun Fiyat” ödülünü almaya hak kazandı.;11
+https://shiftdelete.net/p6;56;Testte fiyat/performans oranı en iyi çıkan ürün MSI P67A GD65 oldu Sonuç olarak teste katılan bu üç anakartın da çok iyi modeller olduğunu gönül rahatlığıyla söyleyebiliriz.;23
+https://shiftdelete.net/p6;57;Gigabyte P67A UD4 modeli de teknik özellikler ve performans açısından başarılı bir ürün.;11
+https://shiftdelete.net/p6;58;Intel Sandy Bridge işlemcileri ve yeni yonga setleriyle yeni yıla çok hızlı ve başarılı bir başlangıç yapmış gibi gözüküyor.;19
+https://shiftdelete.net/p6;59;Sandy Bridge işlemciler ve P67 yonga setli anakartların gösterdikleri performans hakkında ne düşünüyorsunuz?;12
+https://shiftdelete.net/p7;1;10 Kasım 2018 Cumartesi 20 29 Evinde veya ofisinde WiFi sorunu yaşayanlar için harika bir çözümümüz var.;13
+https://shiftdelete.net/p7;2;TP Link’in Deco serisinin en yeni modellerinden biri olan TP Link Deco P7 modelini inceledik.;13
+https://shiftdelete.net/p7;3;TP Link Deco P7 inceleme videomuzda hibrit mesh cihazını yorumluyoruz.;9
+https://shiftdelete.net/p7;4;TP Link Deco P7 özellikleri TP Link Deco P7 hem powerline hem de mesh network özelliği ile öne çıkan bir hibrit kullanım sunuyor.;21
+https://shiftdelete.net/p7;5;WiFi sinyallerini kayıpsız olarak evinizin veya ofisinizin her noktasına taşıyabilen mesh network sistemi 2.4 GHz ağları için 400 Mbps 5 GHz ağları için de 867 Mbps veri aktarım hızı sunabiliyor.;26
+https://shiftdelete.net/p7;6;Powerline modunda ise router ile aynı elektrik hattı üzerinden 600 Mbps hızlara kadar veri aktarımı mümkün.;15
+https://shiftdelete.net/p7;7;TP Link Deco P7 inceleme TP Link Deco P7 inceleme videomuzda ev ve iş yerlerindeki WiFi sinyallerinden memnun olmayanların kullanabileceği en iyi çözümü değerlendirdik!;22
+https://shiftdelete.net/p7;8;İyi seyirler!;2
+https://shiftdelete.net/p7;9;Deco P7 son derece sade bir tasarıma sahip.;7
+https://shiftdelete.net/p7;10;Kolay kurulum noktasında da en az tasarımı kadar başarılı olan Deco P7’i çalışır hale getirmek için yapmanız gereken tek şey router veya modeminize bağlamak olacak.;24
+https://shiftdelete.net/p7;11;Sonrasında ise iOS ve Android işletim sistemli cihazlarınıza kuracağınız TP Link Deco uygulaması üzerinden tüm ayarlara ulaşabilirsiniz.;17
+https://shiftdelete.net/p7;12;Bu uygulama üzerinden ağ ayarları ebeveyn denetimi entegre antivirüs denetimi hız testi ve daha pek çok ayara ulaşılabiliyor.;18
+https://shiftdelete.net/p7;13;TP Link Deco P7 teknik özellikleri Frekans 2.4 GHz ve 5 GHz Bağlantı hızı 2.4 GHz 400 Mbps 5 GHz 867 Mbps Powerline 600 Mbps Kablosuz standartlar IEEE 802.11 ac/n/a 5 GHz IEEE 802.11 b/g/n 2.4 GHz Anten tipi 4 dahili anten SDRAM 256 MB Flash 32 MB;31
+https://shiftdelete.net/p8;1;18 Ağustos 2018 Cumartesi 11 00 Helio P60 işlemcisiyle büyük bir başarı elde eden MediaTek başarılı grafiğini yeni nesil işlemcileriyle de sürdürmek istiyor.;18
+https://shiftdelete.net/p8;2;Bugün ortaya çıkan detay ile birlikte MediaTek Helio P80 ve Helio P90 işlemcileri üzerinde çalışmalara başladığı gün yüzüne çıkartıldı.;17
+https://shiftdelete.net/p8;3;Helio P80 ve Helio P90 geliyor!;4
+https://shiftdelete.net/p8;4;Yeni nesil Helio P80 ve Helio P90 işlemcileri üzerine çalışmalara başlayan Mediatek P60 ile yakalanan başarıyı yeniden tekrarlamak istiyor.;16
+https://shiftdelete.net/p8;5;Dört çekirdekli P60 işlemcisiyle kullanıcılara oldukça kaliteli bir performans sunan teknoloji şirketi Oppo Vivo ve Xiaomi akıllı telefonlarıyla ön plana çıktı.;20
+https://shiftdelete.net/p8;6;Bildiğiniz üzere geçtiğimiz günlerde ortaya çıkan söylentiler de MediaTek’in yeni nesil işlemcisinin P70 olacağı iddia ediliyordu.;14
+https://shiftdelete.net/p8;7;Fakat şirkete yakın kaynaklardan gelen rapora göre yeni nesil işlemcilerin P80 ve P90 olacağının altı çiziliyor.;14
+https://shiftdelete.net/p8;8;Orta segment kullancılarının karşısına P serisi yongaları ile çıkan Mediatek’in yeni nesil işlemcisinin ilk müşterisiyse Oppo olacağı belirtiliyor.;17
+https://shiftdelete.net/p9;1;27 Şubat 2020 Perşembe 13 44 MediaTek herhangi bir etkinlik düzenlemeden yeni mobil işlemcisini duyurdu.;11
+https://shiftdelete.net/p9;2;Helio P95 MediaTek Helio P serisinin en güncel üyesi olarak karşımızda.;10
+https://shiftdelete.net/p9;3;Gelin şimdi bu işlemcinin detaylarına yakından göz atalım.;8
+https://shiftdelete.net/p9;4;MediaTek Helio P95 özellikleri MediaTek’in yeni işlemcisi 2.2 GHz hızında çalışan iki adet Cortex A75 ve 2 GHz hızında çalışan altı adet Cortex A55 çekirdeğine ev sahipliği yapıyor.;22
+https://shiftdelete.net/p9;5;Büyük bir L3 önbelleğe sahip olan işlemci Imagination PowerVR GM 94446 grafik birimi ile bir önceki nesile kıyasla yüzde 10 daha performanslı durumda.;20
+https://shiftdelete.net/p9;6;8 GB’a kadar LPDDR4X RAM 1866MHz ve UFS 2.1 depolama teknolojisini destekleyen Helio P95 64 Megapiksel çözünürlüğünde bir kamerayı veya 24 Megapiksel + 16 Megapiksel çift kamera kurulumunu destekliyor.;19
+https://shiftdelete.net/p9;7;İşlemcinin maksimum ekran çözünürlüğü desteği ise 2520×1080 piksel.;7
+https://shiftdelete.net/p9;8;HyperEngine ile oyunlarda rakiplerine kıyasla daha iyi bir performans sergileyen işlemci APU 2.0 ile geliyor.;14
+https://shiftdelete.net/p9;9;MediaTek yüzde 10 iyileşme sağlayan bu yapay zeka motorunun diğer rakiplere kıyasla en iyi çözüm olduğunu belirtiyor.;16
+https://shiftdelete.net/p9;10;İnternet bağlantısı konusunda LTE Cat.;5
+https://shiftdelete.net/p9;11;12 indirme ve Cat.;3
+https://shiftdelete.net/p9;12;13 yükleme hızlarına ulaşabilen işlemci 4 x 4 MIMO 256 QAM ViLTE VoLTE Dual 4G VoLTE Dual SIM Band 71 WiFi 5 ve Bluetooth 5.0 desteğine sahip.;19
+https://shiftdelete.net/p9;13;MediaTek veya herhangi bir telefon üreticisi bu işlemcinin yer aldığı ilk telefonun ne zaman piyasaya çıkacağına dair bilgi paylaşmadı.;19
+https://shiftdelete.net/p10;1;15 Nisan 2020 Çarşamba 16 03 ShiftDelete.Net olarak inceleme videolarımıza TP Link Tapo P100 inceleme ile devam ediyoruz.;12
+https://shiftdelete.net/p10;2;Bu videoda hem TP Link Tapo P100 özellikleri neler yakından bakarken hem de akıllı cihazın bizlere neler sunduğunu sizlere deneyimlerimiz ile beraber aktarıyoruz.;22
+https://shiftdelete.net/p10;3;TP Link Tapo P100 inceleme Evinizi akıllandırmak için başlayabileceğiniz en küçük adımlardan birisi olan akıllı mini akıllı Wi Fi soket kullanıcılara hem kullanım kolaylığı hem de birçok güvenlik önlemi sunuyor.;29
+https://shiftdelete.net/p10;4;Dilerseniz sözü fazla uzatmayalım ve sizleri videomuz ile baş başa bırakalım.;11
+https://shiftdelete.net/p10;5;TP Link Tapo P100 bizlere neler sunuyor?;6
+https://shiftdelete.net/p10;6;TP Link Tapo P100 özellikleri kullanıcıların hayatlarını kolaylaştıran basit özelliklere karşımıza çıkıyor.;11
+https://shiftdelete.net/p10;7;Güvenlik konusunda gerekli sertifikalara sahip olan cihaz tasarım konusunda da kullanıcıları mutlu ediyor.;13
+https://shiftdelete.net/p10;8;Özellikle sade ve sadece kendi prizinde yer kaplayan tasarım kullanıcılar için kullanım deneyimini bir üst noktaya taşıyor.;17
+https://shiftdelete.net/p10;9;P100 uzaktan çok rahat bir şekilde kullanılabiliyor.;6
+https://shiftdelete.net/p10;10;Cihazınızı ilk satın aldığınız zaman akıllı telefonunuza kuracağınız uygulama ile saniyeler içerisinde rahatça kurabiliyorsunuz.;14
+https://shiftdelete.net/p10;11;Kurulumun ardından yine aynı uygulama ile cihazınızın özelliklerini dünyanın neresinde olursanız olun kullanma imkanına sahip olabiliyorsunuz.;16
+https://shiftdelete.net/p10;12;Özellikle uygulama içerisinde yer alan zamanlayıcı planlama yada uzak mod gibi düşünülmüş detaylar kullanıcıların gündelik hayatta evlerinindeki cihazlardan daha fazla verim almasını sağlıyor.;23
+https://shiftdelete.net/p10;13;Sizler için bu inceleme videomuzda fikirlerimizi ve deneyimlerimizi aktardık.;9
+https://shiftdelete.net/p10;14;Dilerseniz sizlerde yorumlarda bizler ile fikirlerinizi paylaşabilirsiniz.;7
+https://shiftdelete.net/p10;15;İyi seyirler!;2
+https://shiftdelete.net/p12;1;19 Ekim 2016 Çarşamba 11 20 ShiftDelete.Net‘in sevilen video serisi Kız Kıza 9. bölümüyle karşınızda.;9
+https://shiftdelete.net/p12;2;Bu bölümde ekibimizden Buket ve Styleboom Canon’un portatif fotoğraf yazıcısı Canon Selphy modelini ele alıyor.;14
+https://shiftdelete.net/p12;3;Neden Kız Kıza?;3
+https://shiftdelete.net/p12;4;İncelemelerimizde pek çok teknik terim kullanıyoruz.;6
+https://shiftdelete.net/p12;5;Bu teknik terimler bazen kadın takipçilerimizin dikkatini çekmiyor ve fazla “maskülen” kalabiliyor.;11
+https://shiftdelete.net/p12;6;Kadın Teknoloji severlerin dikkatini çeken ürünleri bir de Kız Kıza ekibimiz değerlendiriyor.;12
+https://shiftdelete.net/p12;7;Moda bloguyla ünlenen ve pek çok kadın internet kullanıcısının takip ettiği Styleboom ile ekibimizden Eyşan‘ın kaliteli yorumlarıyla kadınların gözünden “Gerçek” ürün inceleme videosuyla karşınızdayız.;22
+https://shiftdelete.net/p12;8;Canon Selphy CP120 neler sunuyor?;4
+https://shiftdelete.net/p12;9;Mobil cihazlardan kablosuz olarak fotoğraf baskısı imkânı sunan Canon Selphy kompakt tasarım sayesinde her yerde yanınızda gezdirebileceğiniz bir ürün.;19
+https://shiftdelete.net/p12;10;Apple AirPrint desteğiyle iPhone ve iPad cihazlardan kolayca baskı alabilen cihaz ayrıca Canon PRINT uygulamasıyla farklı mobil cihazlara da uyum sağlıyor.;21
+https://shiftdelete.net/p12;11;Vesikalık çift vesikalık ve farklı fotoğraf boyutlarına destek sunan ürün stüdyo kalitesinde baskı sunuyor.;14
+https://shiftdelete.net/p12;12;Çektiğiniz fotoğrafları böyle bir ürün ile bastırmak ister miydiniz?;9
+https://shiftdelete.net/p13;1;13 Ağustos 2019 Salı 20 21 Özellikle uygun fiyatlı akıllı telefon modelleriyle karşımıza çıkan Reeder’ın 999 TL’lik Reeder P13 Blue modeli bu videodaki inceleme konuğumuz oluyor.;18
+https://shiftdelete.net/p13;2;1000 TL altı telefon segmentinde yer alan Reeder P13 Blue özellikleri ile neler sunuyor?;12
+https://shiftdelete.net/p13;3;Cevabı Reeder P13 Blue inceleme videomuzda!;5
+https://shiftdelete.net/p13;4;Reeder P13 Blue inceleme Telefon özellikle uygun fiyatıyla dikkat çekmeyi başarıyor.;10
+https://shiftdelete.net/p13;5;Ayrıca telefonda uygun fiyatına rağmen çift arka kamera gibi birçok özellik yer alıyor.;13
+https://shiftdelete.net/p13;6;Ürünü satın almak için aşağıdaki görsele tıklayabilirsiniz.;7
+https://shiftdelete.net/p13;7;Şimdi lafı daha fazla uzatmadan sizleri Reeder P13 Blue inceleme videomuzla baş başa bırakalım.;13
+https://shiftdelete.net/p13;8;İyi seyirler… Reeder P13 Blue özellikleri Reeder P13 Blue modelinin tasarım özelliklerine baktığımızda cihaz bizleri tek renk seçeneğiyle karşılıyor.;16
+https://shiftdelete.net/p13;9;Adından da anlaşılacağı üzere mavi renk seçeneğiyle gelen cihazın kasa boyutları 156.8 x 74 mm şeklinde.;14
+https://shiftdelete.net/p13;10;Kalınlık ve ağırlık tarafına baktığımızda ise 9.8 mm ve 171 gram değerleri karşılıyor bizleri.;12
+https://shiftdelete.net/p13;11;Ekran tarafında ise 6 inç boyutunda ve 1280 x 600 piksel çözünürlüğünde ekran yer alıyor.;12
+https://shiftdelete.net/p13;12;Bu ekran giriş seviyesi bir deneyim sunuyor.;7
+https://shiftdelete.net/p13;13;Ayrıca telefonun arka kapağı da çıkartılabiliyor.;6
+https://shiftdelete.net/p13;14;Bataryası çıkmayan telefon MicroSD ve SIM kart girişi de çıkarılan kapağın arkasında yer alıyor.;14
+https://shiftdelete.net/p13;15;4 Çekirdekli MediaTek Helio A22 işlemcisinden güç alan telefonun grafik tarafında ise PowerVR GE8320 grafik birimi yer alıyor.;15
+https://shiftdelete.net/p13;16;Bunun yanı sıra telefon 3 GB RAM ve 16 GB dahili hafızaya ev sahipliği ediyor.;13
+https://shiftdelete.net/p13;17;Çift arka kamera kurulumuyla gelen gelen telefonun arkasındaki kameraların çözünürlüğü 8 Megapiksel ve 5 Megapiksel şeklinde.;14
+https://shiftdelete.net/p13;18;Telefonun ön tarafında da 5 Megapiksel kameraya yer veriliyor.;8
+https://shiftdelete.net/p13;19;Her iki taraftaki kameralar da Full HD çözünürlüğünde ve saniye 30 kare çekim yapabiliyor.;13
+https://shiftdelete.net/p13;20;4.080 mAh kapasiteli bataryadan beslenen telefonun yazılım tarafında da Android 9 Pie işletim sistemi yer alıyor.;14
+https://shiftdelete.net/p13;21;Ayrıca telefonda parmak izi okuyucu ve yüz tanıma özelliği bulunuyor.;10
+https://shiftdelete.net/p13;22;Reeder P13 Blue teknik özellikler Ekran 6 inç LCD ekran 1280 x 600 piksel Boyut ve ağırlık 156.8 x 74 x 9.8 mm ve 171 gram İşlemci Helio A22 Grafik Birimi PowerVR GE8320 Bellek 3 GB RAM Depolama 16 GB Arka Kamera 8 + 5 MP Ön Kamera 5 MP Video Kaydı email protected Pil 4.080 mAh İşletim Sistemi Android 9.0 Pie;44
+https://shiftdelete.net/p14;1;28 Nisan 2020 Salı 13 15 Msvcp140.dll hatası özellikle PUBG oynamak isteyenlerin son dönemde sıkça gördüğü bir hata.;13
+https://shiftdelete.net/p14;2;Bu yazımızda sizlere msvcp140.dll nedir msvcp140.dll hatası çözümü nasıl yapılır yani diğer adıyla “msvcp140.dll missing” hatasını ortadan kaldırma nasıl oluyor bunlardan bahsedeceğiz.;18
+https://shiftdelete.net/p14;3;Bunların yanı sıra msvcp140.dll indir sorgusu sırasında çıkan güvenilir birkaç siteden bahsedecek ve sağlıklı bir DLL dosyası bulmanızı sağlayacağız.;18
+https://shiftdelete.net/p14;4;Fakat öncelikle bilmeyenler için “DLL” dosyası nedir bundan bahsetmek istiyoruz.;9
+https://shiftdelete.net/p14;5;“DLL” İngilizce açılımı “Dynamic Link Libraries” olan ve Türkçe olarak “Dinamik Bağlantı Kütüphanesi” diyebileceğimiz bu dosyalar farklı programların benzer işlemler yaparken aynı kaynaktan faydalanmalarını sağlar.;20
+https://shiftdelete.net/p14;6;Bu şekilde hem bellek üzerine binebilecek fazla yükten kurtulmuş olunur hem de programların ya da bilgisayarın daha etkili ve hızlı bir şekilde çalışmasına olanak sağlanır.;25
+https://shiftdelete.net/p14;7;Bu dosyaların ses görüntü ya da programların başlatılmasına olanak sağlamak gibi özellikleri vardır.;13
+https://shiftdelete.net/p14;8;Bu sebeple de bilgisayarlarımızın vazgeçilmezi olan küçük dosyaları haline gelmişlerdir.;10
+https://shiftdelete.net/p14;9;Yazımıza ilk olarak msvcp140.dll nedir ve hatası neden olur sorusundan bahsederek başlayalım.;11
+https://shiftdelete.net/p14;10;Msvcp140.dll hatası nedir?;2
+https://shiftdelete.net/p14;11;– Neden olur?;2
+https://shiftdelete.net/p14;12;Msvcp140.dll hatası zaman zaman ortaya çıkan yaygın bir hatadır.;8
+https://shiftdelete.net/p14;13;Bu hata çoğunlukla kullanıcı online bir oyun Skype ya da diğer bir yardımcı uygulama açmaya çalıştığı sırada ortaya çıkabilir.;19
+https://shiftdelete.net/p14;14;Msvcp140.dll hatası alıyorsanız bu hata gerekli dosyanın kaybolduğu bozulduğu ya da düzgün çalışmadığı anlamına gelir.;14
+https://shiftdelete.net/p14;15;Bu sebeple ilgili program msvcp140.dll dosyası olmadan ya da onarılmadan çalışmaz.;10
+https://shiftdelete.net/p14;16;Eğer bilgisayarınızda Visual C++ Redistributable for Visual Studio 2015 yüklü değilse msvcp140.dll dosyası ile iletişime geçen hiçbir oyun ya da program çalışmayacaktır.;20
+https://shiftdelete.net/p14;17;Bunun sebebi de bu veri paketinin gerekli olan tüm “DLL” dosyalarını bulmaya yaramasıdır.;12
+https://shiftdelete.net/p14;18;Birçok durumda mscvp140.dll hatası arkasındaki asıl suçlu dosyanın bozulmuş olabilmesi ya da zararlı yazılım bulaşmış olması olabilir.;16
+https://shiftdelete.net/p14;19;Msvcp140.dll nedir ve neden olur artık biliyoruz diyebiliriz.;7
+https://shiftdelete.net/p14;20;Fakat msvcp140.dll hatası çözümü uygulanırken dikkat edilmesi gereken hususlar var mı hatayı çözmeden ona da bir değinelim istiyoruz.;17
+https://shiftdelete.net/p14;21;Msvcp140.dll hatası çözümü yaparken dikkat edilmesi gerekenler Msvcp140.dll hatası çözümü yapmadan önce hangi yolu kullanarak sorunu gidereceğiniz hakkında dikkat edilmesi gereken şeyler bulunmakta.;21
+https://shiftdelete.net/p14;22;Örneğin;
+https://shiftdelete.net/p14;23;Ancak msvcp140.dll indir şeklinde sorgu yaptıktan sonra girdiğiniz internet sitesi güvenilir değilse ya da bu konuda yeterli deneyime sahip değilseniz zararlı yazılım içeren bir dosya indirmeniz mümkündür.;26
+https://shiftdelete.net/p14;24;Bu nedenle internet üzerinden msvcp140.dll hatası çözümü şeklinde arama yapmanızın ardından bulduğunuz yollar içerisinden kendi başınıza kolaylıkla yapamayacağınızı düşündüğünüz bir seçenek varsa lütfen bu seçeneği uygulamaktan kaçının.;26
+https://shiftdelete.net/p14;25;Aksi halde istemediğiniz sonuçlar ortaya çıkabilir.;6
+https://shiftdelete.net/p14;26;Msvcp140.dll hatası giderilmediği gibi başka sorunlar da böylelikle meydana gelebilir.;9
+https://shiftdelete.net/p14;27;Msvcp140.dll nedir ve bu dosya ile ilgili bir hata giderilirken dikkat etmeli miyiz aktarmaya çalıştık.;14
+https://shiftdelete.net/p14;28;Gelin bir de sizin için seçtiğimiz msvcp140.dll hatası çözümü yollarına değinelim.;10
+https://shiftdelete.net/p14;29;Msvcp140.dll hatası çözümü 1 – Geri dönüşüm kutusu “Msvcp140.dll missing cannot find msvcp140.dll please reinstall this application” ya da “kod yürütülmesine devam edemiyor çünkü msvcp140.dll bulunamadı” şeklinde bir hata alıyorsanız bunun sebebi ilgili dosyayı yanlışlıkla silmiş olabilmenizden kaynaklanıyor olabilir.;30
+https://shiftdelete.net/p14;30;Eğer bu silme işlemini “Shift+Delete” şeklinde yapmadıysanız msvcp140.dll dosyası bilgisayarınızdaki “Geri Dönüşüm Kutusu” içinde olmalıdır.;11
+https://shiftdelete.net/p14;31;Bu dosyayı geri almak için “Geri Dönüşüm Kutusu” içine girin ve msvcp140.dll dosyası orada ise dosya üzerine “sağ tık” ile basın ve “Geri Yükle” seçeneğine tıklayın.;19
+https://shiftdelete.net/p14;32;Bu sayede almış olduğunuz msvcp140.dll missing hatasını çözmüş olacağız.;8
+https://shiftdelete.net/p14;33;Msvcp140.dll hatası çözümü 2 – Yeniden yükleme yapma Eğer herhangi bir programı çalıştırırken “program msvcp140.dll bilgisayarınızda eksik cannot find msvcp140.dll please reinstall this application” ya da “kod yürütülmesine devam edemiyor çünkü msvcp140.dll bulunamadı” şeklinde bir hata alıyor ama bu hatayı başka programlarda almıyorsanız programı yeniden yüklemeyi deneyebilirsiniz.;37
+https://shiftdelete.net/p14;34;Bu şekilde kayıp olarak görülen msvcp140.dll dosyası yeniden yükleme ile program tarafından görülebilir.;12
+https://shiftdelete.net/p14;35;Programı silmek için ayarlar kısmından “Uygulamalar ve Özellikler” kısmına girip başlatmaya çalıştığınız sırada hata veren programı seçip kaldırmanız gerekiyor.;17
+https://shiftdelete.net/p14;36;Ardından elinizde varsa yükleme dosyasından yoksa internet üzerinden edinerek uygulamayı tekrar yükleyebilirsiniz.;12
+https://shiftdelete.net/p14;37;Msvcp140.dll hatası çözümü 3 – Windows güncellemeleri Windows güncellemeleri bilgisayarınızın düzgün bir şekilde çalışması için oldukça önemlidir.;14
+https://shiftdelete.net/p14;38;Ayrıca güncellemeler ile gelen güvenlik eklemeleri de yazılımların hackerlar tarafından kullanılmasını zorlaştıracaktır.;12
+https://shiftdelete.net/p14;39;Bunun dışında güncelleştirmeleri yapmak msvcp140.dll missing hatasını da çözebilir.;8
+https://shiftdelete.net/p14;40;Windows güncelleştirmelerini yapmak için öncelikle “Ayarlar” kısmına girmemiz gerekiyor.;8
+https://shiftdelete.net/p14;41;Daha sonrasında “Güncelleştirme ve Güvenlik” kısmına girerek “Güncelleştirmeleri Denetle” butonuna tıklayarak güncelleştirme işlemini yapabiliriz.;10
+https://shiftdelete.net/p14;42;Msvcp140.dll hatası çözümü 4 – Sistem dosya denetçisi Bu seçenek “Sistem Dosya Denetçisi” olarak anılan dahili bir arama sistemi.;14
+https://shiftdelete.net/p14;43;Sistem dosyaları içinde bozulan olduğunda SFC taraması dosyayı buluyor ve ardından onarıyor.;12
+https://shiftdelete.net/p14;44;Bu sayede bozuk olduğu düşünülen msvcp140.dll dosyası da onarılmış oluyor.;9
+https://shiftdelete.net/p14;45;Öncelikle görev çubuğunda “Mercek” simgesi üzerine tıklayarak “CMD” yazalım ve çıkan sonuca sağ tıklayıp yönetici olarak çalıştıralım.;15
+https://shiftdelete.net/p14;46;“Komut İstemi” penceresine “sfc/scannow” yazalım ve “enter” tuşuna basalım.;5
+https://shiftdelete.net/p14;47;Bu işlem bozuk dosyaları arayacak ve onaracaktır.;7
+https://shiftdelete.net/p14;48;Bu işlem msvcp140.dll dosyasının Microsoft tarafından sunulan bir kopyasını sağlayacağı için oldukça güvenilir.;12
+https://shiftdelete.net/p14;49;Msvcp140.dll nedir msvcp140 dll hatası çözümü kapsamında şu ana kadar anlatmaya çalıştığımız yöntemler en güvenli olan yöntemler içerisinde diyebiliriz.;17
+https://shiftdelete.net/p14;50;Peki daha az güvenli olarak gördüğümüz yöntemler yok mu?;9
+https://shiftdelete.net/p14;51;Msvcp140.dll indir 32 – 64 bit Msvcp140.dll nedir diye bir arama yapıyorsanız msvcp140.dll hatası almışsınız demektir.;10
+https://shiftdelete.net/p14;52;Ardından da çözüm yolları arayışı içine yönelmeniz oldukça normal.;9
+https://shiftdelete.net/p14;53;Fakat msvcp140.dll hatası çözümü kapsamında güvenli yollar varken pek güvenli olmayan yollar da vardır.;13
+https://shiftdelete.net/p14;54;Bunlardan en yaygını msvcp140.dll dosyasını elle indirmek diyebiliriz.;7
+https://shiftdelete.net/p14;55;Güvenli olarak görmeyişimizin sebeplerinden biri msvcp140.dll dosyasını sağlayan sitelerin bazılarının zararlı yazılım içeren dosyalar sunabilmesinden kaynaklanıyor.;15
+https://shiftdelete.net/p14;56;Peki msvcp140.dll indir işlemi için hangi siteler daha güvenli buna değinelim.;10
+https://shiftdelete.net/p14;57;Güvenli bir dosyaya ulaşmak için kullanıcılara bu dosyaları sağlayan resmi bir site bulunmakta www.dll files.com.;13
+https://shiftdelete.net/p14;58;Site üzerinden işletim sisteminize uygun olan dosya hangisi ise ona dikkat ederek indirmeyi gerçekleştirebilirsiniz.;14
+https://shiftdelete.net/p14;59;Yani sisteminiz 64 bit ise msvcp140.dll 64 bit indir ya da msvcp140.dll download seçeneğine tıklamalısınız.;11
+https://shiftdelete.net/p14;60;Bağlantıya buraya tıklayarak ulaşabilirsiniz.;4
+https://shiftdelete.net/p14;61;Dosyayı indirdikten sonra resmi bir site de olsa taramadan geçirmeyi unutmayın.;11
+https://shiftdelete.net/p14;62;Çünkü popüler olan bu tarz sitelere zararlı yazılım yüklemeyi başaran birçok kişi bulunmaktadır.;13
+https://shiftdelete.net/p14;63;Msvcp140.dll nereye atılır?;2
+https://shiftdelete.net/p14;64;Msvcp140.dll indir işlemini gerçekleştirmenizin ardından eğer sıkıştırılmış bir dosya şeklinde geldiyse dosyayı çıkarın.;12
+https://shiftdelete.net/p14;65;İçinde bulunan dosyayı kopyalayın.;4
+https://shiftdelete.net/p14;66;Sisteminiz 64 bit ise C /Windows/System32 yolunu izleyerek buraya atın.;8
+https://shiftdelete.net/p14;67;Sisteminiz 32 bit ise C /Windows/SysWOW64 yolunu izleyerek buraya atın.;8
+https://shiftdelete.net/p14;68;Kopyaladığınız dosyayı var olan ile değiştirirken sizden onay isteyebilir.;9
+https://shiftdelete.net/p14;69;Onaylayın.;1
+https://shiftdelete.net/p14;70;Msvcp140.dll hatası nerelerde görülür?;3
+https://shiftdelete.net/p14;71;Eğer bilgisayarınızı düzgün bir şekilde kapatmıyorsanız ya da virüs bulamış ise bu durum “DLL” dosyalarınızı bozabilir.;15
+https://shiftdelete.net/p14;72;Böyle bir durumda siz daha farkına bile varmadan msvcp140.dll hatası alabilirsiniz.;10
+https://shiftdelete.net/p14;73;Bu hata genellikle yazımızın başında da bahsettiğimiz gibi belli uygulamaların başlangıcında bulunamadığı ya da okunamadığı durumlarda “msvcp140.dll missing” hatası olarak görülür.;19
+https://shiftdelete.net/p14;74;En çok karşılaşılan “DLL” hatalarından biri olan msvcp140.dll hatasının çözümü konusunda bilgi vermeye çalıştık.;12
+https://shiftdelete.net/p14;75;Yazımız içerisinde msvcp140.dll nedir diyerek başladık ve en son olarak nerede görülür diyerek bitirdik.;13
+https://shiftdelete.net/p14;76;Umarız sizler için yararlı bir rehber olmuştur.;7
+https://shiftdelete.net/p15;1;19 Ekim 2017 Perşembe 11 30 McLaren P15 P1 modelinin yerini alacak olan Birleşik Krallık merkezli otomobil üreticisinin şu anda üzerinde çalıştığını doğruladığı yeni bir supercar modeli.;21
+https://shiftdelete.net/p15;2;Bu yeni model üreticinin Ultimate serisinin bir parçası olacak ve McLaren’ın şimdiye kadar ürettiği en pist odaklı otomobil olacak.;18
+https://shiftdelete.net/p15;3;McLaren P15 Ultimate serisinin yeni üyesi olacak Yeni araç McLaren’ın Track22 iş planının bir parçası ve 2018’in ilk çeyreğinde görücüye çıkacak.;17
+https://shiftdelete.net/p15;4;Super serinin üzerine konumlandırılmış olan Ultimate serisi araçları sınırlı sayıda üretilmekteler.;11
+https://shiftdelete.net/p15;5;Şu anda bu seride yalnızca McLaren P1 ve P1 GTR yer almakta.;10
+https://shiftdelete.net/p15;6;Yeni araç yolda kullanım için yasal olsa da McLaren pistte en ekstrem sürüş deneyimini sunmak için pratiklikten ve konfordan ödün verdiklerini açıkladı.;22
+https://shiftdelete.net/p15;7;Aracın tasarımı “form işlevden önce gelir” felsefesine uygun olarak geliştirilmiş.;8
+https://shiftdelete.net/p15;8;Yeni araç 720S‘in 4 litrelik turboşarjlı V8 bir motorunu taşıyacak.;7
+https://shiftdelete.net/p15;9;Ancak iç kısımda güncellemeler ve daha güçlü bir turboşarj sunacak olan 789 beygirlik motor 720S’ten 79 beygir daha güçlü olacak.;17
+https://shiftdelete.net/p15;10;P1’in hibrit motorundan ise 115 beygir daha güçsüz olacak.;7
+https://shiftdelete.net/p15;11;Buna rağmen McLaren’ın karbon fiberden üretilmiş olan Monocage II yolcu kompartımanı ve diğer ağırlık azaltma tedbirleri sayesinde P15’in 1 300 kg’dan daha hafif olması bekleniyor.;20
+https://shiftdelete.net/p15;12;Böylece güç ağırlık hususunda iyi bir denge yakalanmış olacak.;9
+https://shiftdelete.net/p15;13;P15’in 500 adet üretilmesi ve 1 000 000 dolardan satışa sunulması bekleniyor.;7
+https://shiftdelete.net/p15;14;McLaren yıl sonundan önce model hakkında daha fazla bilgi açıklayacaktır.;10
+https://shiftdelete.net/p15;15;P15 hakkında sizin de düşüncelerinizi alalım.;5
+https://shiftdelete.net/p16;1;26 Şubat 2018 Pazartesi 14 30 Oldukça başarılı bir pil üreticisi olan Energizer’in Arçelik katkılarıyla katıldığımız MWC 2018 kapsamında 16000 mAh kapasiteli bir akıllı telefon duyurmaya hazırlandığını sizlere duyurmuştuk.;22
+https://shiftdelete.net/p16;2;Beklenen gün geldi ve Energizer Power Max P16K Pro resmi olarak tanıtıldı!;11
+https://shiftdelete.net/p16;3;Sahip olduğu batarya kapasitesi ile tamamen farklı deneyim sunan Power Max P16K Pro’nun 10 mm’den daha ince olacağı iddiası doğru çıkmadı.;17
+https://shiftdelete.net/p16;4;Gelin şimdi Energizer Power Max P16K Pro modelinin özelliklerine yakından göz atalım!;11
+https://shiftdelete.net/p16;5;Energizer Power Max P16K Pro özellikleri ile neler sunuyor?;8
+https://shiftdelete.net/p16;6;5 99 inç büyüklüğünde 18 9 formatında bir ekranın yer aldığı P16K Pro boyutları ile günümüz standartları için uygun bir telefon değil.;17
+https://shiftdelete.net/p16;7;Zira 15.2 mm kalınlığında olan telefonun yaklaşık 300 gram ağırlığında olduğu düşünülüyor.;10
+https://shiftdelete.net/p16;8;Zira Energizer cihazın boyutlarını ve ağırlığını resmi olarak açıklamadı.;9
+https://shiftdelete.net/p16;9;MediaTek tarafından geliştirilen Helio P23 işlemciden güç alan cihaz Android 8.0 Oreo ile kutudan çıkıyor.;13
+https://shiftdelete.net/p16;10;2.5 GHz hızına ulaşabilen sekiz adet Cortex A53 çekirdeğinden oluşan Helio P23 Mali G71 MP2 grafik birimine ev sahipliği yapıyor.;15
+https://shiftdelete.net/p16;11;Cihazın hem ön hem arka kısmında çift kamera bulunuyor.;9
+https://shiftdelete.net/p16;12;Arka tarafta 16 Megapiksel + 13 Megapiksel çözünürlüğünde kamera yer alırken ön tarafta ise 13 Megapiksel + 5 Megapiksel çözünürlüğünde bir kamera kombinasyonu var.;18
+https://shiftdelete.net/p16;13;6 GB RAM’in yer aldığı akıllı telefon 128 GB dahili depolama alanı sunuyor.;10
+https://shiftdelete.net/p16;14;Wi Fi 802.11 a/b/g/n Bluetooth 4.2 ve GPS bağlantı seçeneklerine sahip olan cihazda USB C portu ve 3.5 mm kulaklık girişi bulunuyor.;18
+https://shiftdelete.net/p16;15;Ne yazık ki Energizer tarafından cevapsız bırakılan bir diğer soru ise cihazın hızlı şarj ile ne kadar sürede tam şarja ulaştığı.;21
+https://shiftdelete.net/p16;16;Tanıtım etkinliği adı altında sadece tasarımı sergilenen cihazın ne zaman satışa sunulacağı henüz açıklanmadı.;14
+https://shiftdelete.net/p16;17;Energizer’in yeni akıllı telefonu hakkında ne düşünüyorsunuz?;6
+https://shiftdelete.net/p18;1;28 Şubat 2019 Perşembe 17 03 Ürettiği pillerle ve reklamlarda şov yapan tavşanı ile akıllarda yer eden Energizer şimdi de 18000 mAh’lik akıllı telefonu ile bizleri karşılıyor.;21
+https://shiftdelete.net/p18;2;Peki 18000 mAh bataryalı Energizer Power Max P18K Pop özellikleri neler sunuyor?;10
+https://shiftdelete.net/p18;3;Gelin tüm merak edilenlere Energizer Power Max P18K Pop ön inceleme videosu ile cevap verelim.;14
+https://shiftdelete.net/p18;4;Energizer Power Max P18K Pop ön inceleme Günümüz akıllı telefonların ortak sorununa ilginç bir yaklaşım ile çözüm bulanan Energizer 18000 mAh bataryalı Energizer Power Max P18K Pop modelini MWC 2019’da görücüye çıkardı.;28
+https://shiftdelete.net/p18;5;18000 mAh gibi oldukça yüksek kapasiteli bir bataryanın yer aldığı Power Max P18K Pop bu sayede 4 gün boyunca kesintisiz müzik dinleme 2 gün boyunca video izleme imkanı ve 50 gün bekleme süresi sunabiliyor.;29
+https://shiftdelete.net/p18;6;Lafı daha fazla uzatmadan sizleri Energizer Power Max P18K Pop ön inceleme videosu ile baş başa bırakıyoruz.;16
+https://shiftdelete.net/p18;7;Ayrıca telefonun teknik özelliklerini de videonun hemen altından okumaya devam edebilirsiniz.;11
+https://shiftdelete.net/p18;8;İyi seyirler!;2
+https://shiftdelete.net/p18;9;18000 mAh bataryalı Energizer Power Max P18K Pop özellikleri!;7
+https://shiftdelete.net/p18;10;6.2 inç büyüklüğündeki ekranı Full HD+ çözünürlük sunan P18K Pro gücünü MediaTek’in Helio P70 işlemcisinden alıyor.;12
+https://shiftdelete.net/p18;11;Cihaza 6 GB RAM ve 128 GB depolama alanı eşlik ederken microSD kart ile hafızayı artırmak mümkün.;15
+https://shiftdelete.net/p18;12;Ön kamera özel mekanizması sayesinde sadece kullanıldığında ortaya çıkıyor.;9
+https://shiftdelete.net/p18;13;Ön tarafta 16 Megapiksel çözünürlüğünde ana ve 2 Megapiksel çözünürlüğünde ikinci kamera yer alıyor.;12
+https://shiftdelete.net/p18;14;Arka tarafa geçtiğimizde ise üç kamera ile karşılaşıyoruz.;8
+https://shiftdelete.net/p18;15;12 Megapiksel çözünürlüğündeki ana kameya 5 Megapiksel ve 2 Megapiksel çözünürlüğünde kameralar eşlik ediyor.;11
+https://shiftdelete.net/p18;16;Full HD video kaydı gerçekleştirebilen telefon 4K kayıt desteğine sahip değil.;10
+https://shiftdelete.net/p18;17;Android 9 Pie ile çalışan telefonun alt kısmında USB C portu bulunurken 3.5 mm’lik giriş yer almıyor.;14
+https://shiftdelete.net/p18;18;Bunlara ek olarak devasa bataryasıyla ön plana çıkan bu telefonun 18W hızlı şarj desteğine ev sahipliği yaptığını da görüyoruz.;18
+https://shiftdelete.net/p18;19;Bu kadar yüksek kapasiteli bataryanın yer aldığı bir telefon için hızlı şarj hayati önem taşıyor.;15
+https://shiftdelete.net/p18;20;Bunun yanı sıra P18K’yı bir powerbank olarak kullanarak diğer telefon ve cihazları şarjedebiliyorsunuz.;12
+https://shiftdelete.net/p18;21;Energizer Power Max P18K Pop özellikleri Ekran 6.2 inç 19 9 en boy IPS LCD 408 ppi İşlemci Mediatek Helio P70 4x Cortex A73 2.0GHz + 4x Cortex A53 2.0GHz Grafik Birimi Mali G72 MP3 Bellek 6 GB RAM Depolama 128 GB dahili hafıza Batarya 18000 mAh+ 18W hızlı şarj Ön Kamera 16 MP + 2 MP Arka Kamera 12 MP + 5 MP + 2 MP derinlik sensörü + HDR desteği;44
+https://shiftdelete.net/p19;1;Bu firmalardan biri de MSI.;5
+https://shiftdelete.net/p19;2;Son çıkan ürünlerinden biri oldukça ilginç.;6
+https://shiftdelete.net/p19;3;NetOn Ap1900 isimliyle adlandırılan ürün LCD monitör klavye ve fare’den oluşuyor.;9
+https://shiftdelete.net/p19;4;PC donanımları LCD monitörün arka bölümüne yerleştirilmiş.;7
+https://shiftdelete.net/p19;5;LCD ekran ...;2
+https://shiftdelete.net/p20;1;26 Haziran 2019 Çarşamba 11 35 Huawei’nin yakın zamanda EMUI 9.1 güncellemesi alacak olan 49 telefon modelinin hangileri olduğu ortaya çıkmıştı.;14
+https://shiftdelete.net/p20;2;Yaz sezonu boyunca güncellemeye kavuşacak olan telefon modelleri de bu listeye yer aldı.;13
+https://shiftdelete.net/p20;3;Güncellemeler yavaş yavaş gelmeye başlıyor.;5
+https://shiftdelete.net/p20;4;Huawei P20 Lite ve Mate 20 EMUI 9.1 güncellemesi alan modeller oldu.;9
+https://shiftdelete.net/p20;5;Ayrıca Mate 20 Pro modeli de beklenen güncellemeyi aldı.;8
+https://shiftdelete.net/p20;6;Huawei P20 Lite ve Mate 20 EMUI 9.1 almaya başladı Huawei tarafından yayınlanan bir fotoğrafla yaz sezonunda hangi Huawei modellerinin EMUI 9.1 alacağı açıklanmıştı.;20
+https://shiftdelete.net/p20;7;Haziran 2019 takvimi içinde yer alan modellerden Mate 20 ve P20 Lite EMUI 9.1 güncellemesi almaya başladı.;13
+https://shiftdelete.net/p20;8;Reddit’te yer alan bilgilere göre İngiltere ve Almanya gibi ülkelerde yeni güncellemeyi indirmeye başlayan kullanıcıların olduğu ortaya çıktı.;17
+https://shiftdelete.net/p20;9;Önümüzdeki günlerde güncellemenin küresel olarak yayılacağı düşünülüyor.;7
+https://shiftdelete.net/p20;10;Tahminlere göre ay bitmeden daha fazla ülkede Mate 20 ve P20 Lite kullanıcıları EMUI 9.1 güncellemesine kavuşacak.;14
+https://shiftdelete.net/p20;11;Haziran ayının ardından Temmuz 2019’da da aşağıdaki modeller EMUI 9.1 güncellemesi alacak.;10
+https://shiftdelete.net/p20;12;P20 / P20 Pro Nova 3 / 3i P30 Lite Mate 10/10 Pro / 10 RS Porsche Tasarımı Mate 9 / Mate 9 Pro Y9 2019 Y6 Pro 2019 Y5 2019 Huawei P10 ve P10 plus modelleri de ağustos ayının içinde güncelleme alacak.;22
+https://shiftdelete.net/p21;1;Fransa nın başkenti Paris te iki haftadır devam eden 21.;9
+https://shiftdelete.net/p21;2;Birleşmiş Milletler İklim Değişikliği Taraflar Konferansı COP21 dün tarihi bir anlaşmaya ev sahipliği yaptı.;13
+https://shiftdelete.net/p21;3;İklim değişikliği ile mücadele için imzalanan sözleşmenin küresel ...;8
+https://shiftdelete.net/p22;1;23 Mayıs 2018 Çarşamba 02 00 Orta segment akıllı telefonlara üst segmentteki yapay zeka çift kamera ve daha fazla yeteneği kazandıracak olan MediaTek Helio P22 çipsetler resmen duyuruldu.;23
+https://shiftdelete.net/p22;2;MediaTek yeni çipinin kendi deyimiyle “yeni üst seviye” akıllı telefon pazarına güç vereceğinin altını çiziyor.;13
+https://shiftdelete.net/p22;3;MediaTek Helio P22 özellikleri neler?;4
+https://shiftdelete.net/p22;4;Helio P22 orta seviye mobil endüstrisinin 12 nanometre FinFET üretilen ilk çipseti olması ile öne çıkıyor.;14
+https://shiftdelete.net/p22;5;Ürünün hızı ile yapay zeka işlevi sağlayabilmesi daha iyi kameralara güç vermesi ve daha verimli yüksek hızlı veri bağlantılarına izin vermesi göz dolduruyor.;23
+https://shiftdelete.net/p22;6;8 çekirdekli işlemci 2.0 GHz saat hızındaki Cortex A53 çekirdeklerinden oluşuyor.;8
+https://shiftdelete.net/p22;7;Tek kamera için 21 Megapiksel çift arka kamera içinse 13 Megapiksel + 8 Megapiksel sensör desteğini sunan ürün ile saniyede 30 kare ile video kaydı gerçekleştirmek mümkün.;22
+https://shiftdelete.net/p22;8;Ayrıca gerçek zamanlı bokeh ön izlemesi için son derece yetenekli donanımsal derinlik motoru detayını da es geçmemek gerek.;18
+https://shiftdelete.net/p22;9;Bunlarla da sınırlı kalmayan çipset orta segment pazarında görmeye alışık olmadığımız yüksek ekran çözünürlükleri için de destek sunuyor.;18
+https://shiftdelete.net/p22;10;MediaTek örnek olarak 20 9 oran ve 1600 x 720 piksel çözünürlük paylaşıyor.;9
+https://shiftdelete.net/p22;11;Ek olarak Bluetooth 5.0 802.11ac Wi Fi hızları ve çift SIM kart ile LTE bağlantısı da dikkat çekiyor.;16
+https://shiftdelete.net/p22;12;Orta segment akıllı telefon pazarında giderek daha iyi akıllı telefonlar görüyoruz.;11
+https://shiftdelete.net/p22;13;Bunların büyük kısmı 200 dolar altı fiyatlar ile tüketicileri cezbedebiliyor.;9
+https://shiftdelete.net/p22;14;MediaTek bu yeni çipset ile yüksek fiyatlı amiral gemileri yerine tüketicileri orta segment modellere daha fazla çekmek amacını güttiüklerini ifade ediyor.;21
+https://shiftdelete.net/p22;15;Üretimine başlanmış olan Helio P22 serisi 2018 yılının üçüncü çeyreği içerisinde akıllı telefonlarda kendisini göstermeye başlayacak.;14
+https://shiftdelete.net/p22;16;Bakalım bu çipseti kullanan ilk akıllı telefon hangisi olacak?;9
+https://shiftdelete.net/p23;1;30 Ağustos 2017 Çarşamba 05 00 Giriş seviyesinden amiral gemisine kadar yüzlerce farklı akıllı telefon modeline güç veren mobil işlemci üreticisi MediaTek‘in yeni işlemcilerini tanıtmaya hazırlandığını daha önce sizlere duyurmuştuk.;25
+https://shiftdelete.net/p23;2;MWC 2017‘de duyurusunu gerçekleştirdiği Helio X30 işlemcisi ile son dönemde adından oldukça fazla söz ettiren MediaTek yeni işlemcileri Helio P23 ve Helio P30‘un duyurusunu gerçekleştirdi.;21
+https://shiftdelete.net/p23;3;Gelin şimdi MediaTek’in 16 nm fabrikasyon süreci ile üretilen yeni işlemcilerine yakından göz atalım.;12
+https://shiftdelete.net/p23;4;MediaTek Helio P23 ve Helio P30 duyuruldu!;5
+https://shiftdelete.net/p23;5;Bu yılın son çeyreğinde akıllı telefon üreticileri ile buluşarak mobil cihazlara güç vermeye başlayacak olan yonga setleri Helio P serisinde yer alan diğer tüm işlemciler gibi sekiz çekirdekli bir yapıya sahip.;31
+https://shiftdelete.net/p23;6;Dört tanesi 2.3 GHz ve dört tanesi 1.65 GHz hızında olmak üzere toplamda 8 adet Cortex A53 çekirdeğinin yer aldığı Helio P23 770 MHz hızında çalışan Mali G71MP2 grafik birimine ev sahipliği yapıyor.;26
+https://shiftdelete.net/p23;7;İşlemci çekirdekleri ve çalışma hızları Helio P23 ile aynı olan ve 950 MHz hızında çalışan Mali G71MP2 grafik birimine ev sahipliği yapan Helio P30 modeli ise iki adet 16 MP ve bir adet 25 MP kamera desteği sunuyor.;32
+https://shiftdelete.net/p23;8;Yeni işlemcilerin en dikkat çekici noktası ise çift SIM kartlı cihazlarda her iki SIM kart için LTE bağlantısını aynı anda aktif edebilecek olması.;23
+https://shiftdelete.net/p23;9;MediaTek’in yeni işlemcileri hakkında siz ne düşünüyorsunuz?;6
+https://shiftdelete.net/p24;1;Microsoft’un Windows Mobile adlı hantal işletim sisteminde büyük ölçekli bir devrim yapacağı ve Windows Phone adlı tamamen yeni bir sisteme geçeceği haberi yıllar önce beni oldukça heyecanlandırmıştı.;26
+https://shiftdelete.net/p24;2;Yeni sistem ilk ...;3
+https://shiftdelete.net/p25;1;08 Şubat 2017 Çarşamba 18 00 Özellikle uygun fiyatlı akıllı telefonlarda görmeye alışkın olduğumuz yonga setlerini üreten MediaTek bugün yeni 8 çekirdekli orta seviye yonga seti Helio P25’i tanıttı.;23
+https://shiftdelete.net/p25;2;MediaTek Helio P25 özellikleri 16 nm teknolojisiyle üretilen MediaTek Helio P25 önceki nesil Helio P10 ve P20’nin geliştirilerek işlemci yongasının getirildiği en son noktayı temsil ediyor.;21
+https://shiftdelete.net/p25;3;8 çekirdekli bu yonga setinin Cortex A53 yapısındaki ilk 4 çekirdeği 1 55 GHz ve yine Cortex A53 yapısındaki diğer 4 çekirdeği ise 2 5 GHz hızında çalışıyor.;19
+https://shiftdelete.net/p25;4;Grafik tarafında ise bu yonga setinde 900 MHz hızında çalışan Mali T880 GPU’su kullanılmış.;11
+https://shiftdelete.net/p25;5;Ayrıca MediaTek yetkililerinin belirttiğine göre bu yonga seti önceki nesle oranla %25 daha az güç tüketiyor.;15
+https://shiftdelete.net/p25;6;Orta sınıf telefonlara çift kamera desteğini getiren ilk yonga seti olan Helio P20 tek 23 Mp veya çift 13 Mp + 13 Mp kamera sensörlerininin kullanılmasına olanak tanıyor.;23
+https://shiftdelete.net/p25;7;Son olarak 6 GB’a kadar RAM desteği sunan Helio P25’in bu yılın ilk çeyreğinde kullanılmaya başlaması öngörülüyor.;14
+https://shiftdelete.net/p25;8;Siz bu işlemci hakkında neler düşünüyorsunuz?;6
+https://shiftdelete.net/p26;1;Tümüyle Aytaşı Beyazı olan C720P 2600 Chromebook ile müşteriler Chrome uygulamaları medya oyunlar ve ürünün diğer özellikleriyle çok daha fazla şey yapmak için cihazın 11.6 inç HD LED arkadan aydınlatmalı dokunmatik ...;28
+https://shiftdelete.net/p27;1;16 Şubat 2020 Pazar 21 09 Dell’in içerik üreticileri ve profesyoneller için geliştirdiği Dell UltraSharp 27 4K PremierColor Monitör UP2720Q modelini takipçimizle imceledik.;15
+https://shiftdelete.net/p27;2;Dell UP2720Q inceleme ShiftDelete.Net ekibi olarak en yeni ürünleri sizlere anlatmaya devam ediyoruz.;11
+https://shiftdelete.net/p27;3;Bu sefer yaptığımız inceleme videolarına bir farklılık kattık ve ofisimize gelen bir ürünü takipçimizle inceledik!;15
+https://shiftdelete.net/p27;4;Özellikle profesyonel kullanıcılara hitap eden Dell UltraSharp 27 4K PremierColor Monitör UP2720Q modelini duyurumuza olumlu yanıt veren takipçiler arasından seçtiğimiz teknoloji sever ile beraber inceledik.;22
+https://shiftdelete.net/p27;5;UltraSharp 27 4K PremierColor Monitör Dell UP2720Q inceleme UP2720Q yerleşik renkölçer ve Thunderbolt 3 bağlantısı olan dünyanın ilk 27 inç 4K monitörü olma özelliğini taşıyor.;18
+https://shiftdelete.net/p27;6;İncelediğimiz monitör özellikle içerik üreticiler için renk doğruluğu noktasında çok farklı bir deneyim sunuyor.;14
+https://shiftdelete.net/p27;7;UP2720Q yüzde 100 Adobe RGB yüzde 98 DCI P3 ve yüzde 80 BT.2020 desteğine sahip.;9
+https://shiftdelete.net/p27;8;Monitör kendi içerisinde bir renkölçere sahip.;6
+https://shiftdelete.net/p27;9;Ayrıca CalMAN renkk kalibrasyon yazılımı ile de sorunsuz bir şekilde çalışabildiğini de ekleyelim.;13
+https://shiftdelete.net/p27;10;Şimdi dilerseniz sizi Dell UltraSharp 27 4K PremierColor Monitör DellUP2720Q inceleme videomuzla sizleri baş başa bırakalım.;13
+https://shiftdelete.net/p27;11;İyi seyirler…;1
+https://shiftdelete.net/p28;1;Taşınabilirlik ve ekran okunabilirliği açısından önemli bir ara form olan 14 inçler arasına katılan Casper Nirvana CLA 2815A kullanıcılara gündelik ihtiyaçlarını her yerde görebilecekleri bir dizüstü bilgisayar sunuyor.;26
+https://shiftdelete.net/p28;2;Öncelikle metal ...;2
+https://shiftdelete.net/p29;1;Müziği Her Yere Taşıyın 19 Mart 2009 Perşembe 08 20 NP2900 Philips’in Streamium serisi müzik çalar sistemlerinin bir parçası olarak kablolu veya kablosuz ağ üzerinde yayınlanan müziği sese dönüştürüyor.;23
+https://shiftdelete.net/p29;2;Dar alanda şiddetli bir müzik deneyimi yaşatan ürünün en önemli özelliği ise internet radyosu desteği.;15
+https://shiftdelete.net/p29;3;Yapmanız gerekenleri ve bu ürünün özelliklerini videomuzda bulabilirsiniz.;8
+https://shiftdelete.net/p29;4;İzleyin Philips Streamium NP2900 Ağ müzik çaları Ses gücü 30 Watt RMS Ağ desteği Ethernet ve 802.11g kablosuz ağ Denetim Ürün üzerinde 4 tuş tam işlevler için uzaktan kumanda Güç kaynağı Adaptör Montaj parçaları Masa ayağı ve duvar montaj aparatı Üretici Philips Ülkemize getiren Türk Philips Telefon 216 522 15 00 Fiyat Firmaya sorunuz Steamium ürünlerinden müzik sistemi kurar mısınız?;52
+https://shiftdelete.net/p29;5;yazar Berkin Bozdoğan Berkin Bozdoğan Hayatını kamera karşısında değişik hareketler yaparak ve oyun sunucularında balistik incelemelerle bulunarak geçiren Berkin SDN ekibinin başına yeni çoraplar örmek için geri döndü.;28
+https://shiftdelete.net/p29;6;Yazarın diğer haberlerine ulaşmak için tıklayın.;6
+https://shiftdelete.net/p29;7;Müziği Her Yere Taşıyın konulu haberimizde ShiftDelete.Net olarak sizlere Müziği Her Yere Taşıyın ile ilgili son gelişmeleri aktarmak istedik.;18
+https://shiftdelete.net/p29;8;Hemen yukarıda Müziği Her Yere Taşıyın ile ilgili yorum ve görüşleri inceleyerek sizlerde yorum bırakabilirsiniz.;15
+https://shiftdelete.net/p30;1;31 Mayıs 2019 Cuma 10 58 Çinli Huawei amiral gemisi modelleri için yeni güncelleme yayınlamaya hazırlanıyor.;12
+https://shiftdelete.net/p30;2;Yayınlanacak olan güncelleme ile birlikte DC karatma özelliği telefonlara geliyor.;10
+https://shiftdelete.net/p30;3;Huawei P30 Pro güncellemesi ile birlikte bu özelliğin yanında bazı iyileştirmeler de yapılacak.;12
+https://shiftdelete.net/p30;4;Huawei P30 Pro güncellemesi ile birlikte ekran titremeleri düzelecek Huawei P30 ve P30 Pro modelleri alacakları güncellemeyle birlikte DC karartma özelliğine sahip olacak.;20
+https://shiftdelete.net/p30;5;Yeni güncelleme ile birlikte telefon bulunduğu ortama göre ekran parlaklığını ayarlayabilecek.;11
+https://shiftdelete.net/p30;6;Bu sayede telefonların şarjının daha uzun süre dayanacağını söyleyebiliriz.;9
+https://shiftdelete.net/p30;7;Tabii DC karartma özelliği yalnızca ekran parlaklığı ile ilgili değil.;10
+https://shiftdelete.net/p30;8;Her piksele gönderilen akımı azaltan bu özellik sayesinde OLED ekranlarda yaşanan titreme sorununa da çare olabilecek.;16
+https://shiftdelete.net/p30;9;Huawei P30 Pro güncellemesi ilk olarak Çin’de yayınlanacak.;6
+https://shiftdelete.net/p30;10;400 MB büyüklüğündeki güncelleme aynı zamanda parmak izi okuyucuyu da optimize ediyor.;11
+https://shiftdelete.net/p30;11;DC karartma özelliği ilerleyen zamanda eski amiral gemisi modellerine de gelecek mi?;12
+https://shiftdelete.net/p30;12;Şimdilik bu sorunun yanıtı şimdilik bilinmiyor.;6
+https://shiftdelete.net/p30;13;400 MB boyutundaki Huawei P30 ve P30 Pro güncellemesinin ilerleyen zamanda farklı bölgelerde de yayınlanması bekleniyor.;13
+https://shiftdelete.net/p31;1;Berlin IFA 2010 fuarı resmi olarak yarın başlıyor.;7
+https://shiftdelete.net/p31;2;Fakat Shiftdelete.net editörleri kendileri tutmayarak bu fuara girmeye başardı.;8
+https://shiftdelete.net/p31;3;IFA birçok markanın buluştuğu bir fuar olarak da biliniyor.;9
+https://shiftdelete.net/p31;4;Bu fuarın önemi birçok ...;4
+https://shiftdelete.net/p32;1;06 Ocak 2017 Cuma 04 00 ABD’nin Las Vegas eyaletinde düzenlenen CES 2017 fuarında tüketici ile buluşturacağı yeni ürünlerini gün yüzüne çıkarmaya devam eden Dell UP3218K model monitörünü duyurdu.;22
+https://shiftdelete.net/p32;2;4K ekranların bile henüz standart hale gelmediği günümüzde Dell’in 8K çözünürlük sunan UP3218K modelini profesyoneller için hazırladığı kolayca tahmin edilebiliyor.;16
+https://shiftdelete.net/p32;3;Gelin Dell UP3218K monitörün özelliklerine ve tasarımına hep birlikte bakalım!;9
+https://shiftdelete.net/p32;4;Dell UP3218K özellikleri!;2
+https://shiftdelete.net/p32;5;32 inç büyüklüğünde bir panele sahip olan Dell UP3218K 8K yani 7680×4320 piksel çözünürlük sunuyor.;11
+https://shiftdelete.net/p32;6;280 ppi piksel yoğunluğuna sahip olan monitör AdobeRGB ve sRGB renk gamutlarının tamamını kapsıyor.;13
+https://shiftdelete.net/p32;7;Alüminyum bir gövdeye sahip olan ve 1.07 milyar renk gösterebilen UP3218K Sharp’ın geçtiğimiz yıl duyurusunu gerçekleştirdiği 8K çözünürlüklü IGZO monitör ile eş değer bir ürün olarak görülebilir.;23
+https://shiftdelete.net/p32;8;Minimal bir çerçeveye sahip olması ve pivot tasarımı sayesinde kolayca yükseklik ayarı yapılabilen ve döndürülebilen Dell monitörün video kurgu ve fotoğraf düzenleme işlemleri yapan profesyoneller için hazırlandığı özellikle vurgulanıyor.;29
+https://shiftdelete.net/p32;9;Zira 400 nit parlaklık değerine sahip olan ve üzerinde 4 adet USB 3.0 portu yer alan Dell UP3218K 23 Mart’ta 4999 dolar fiyat etiketi ile satışa sunulacak.;20
+https://shiftdelete.net/p32;10;Dell’in 8K çözünürlük sunan monitörü hakkında ne düşünüyorsunuz?;6
+https://shiftdelete.net/p34;1;16 Mart 2014 Pazar 13 00 Çağdaş televizyon sistemleri elbette üzerlerinde stereo ses sistemleriyle geliyor.;11
+https://shiftdelete.net/p34;2;Televizyonun stereo hoparlörü var demekle uzaktan kumandası var veya ekranı renkli demek arasında bir fark yok.;16
+https://shiftdelete.net/p34;3;Bununla birlikte çevresel ses vermek veya belirli bir ses seviyesinin üstüne çıkmak denildiğinde televizyonlara tümleşik olarak gelen hoparlörler birçok ihtiyacı karşılamıyor.;21
+https://shiftdelete.net/p34;4;SoundPlate ile kablosuz çözüm LG tarafından üretilen LAP340 ürününün en önemli özelliği ince tasarımı sayesinde televizyonların altına yerleştirilebilmesi.;17
+https://shiftdelete.net/p34;5;Cihazı bu şekilde konumlandırdığınızda televizyonla kablolu veya kablosuz olarak iletişime geçmesini sağlayabiliyorsunuz.;12
+https://shiftdelete.net/p34;6;İletişim için ister kablosuz Bluetooth teknolojisini kullanabilir isterseniz de Sound Plate ile birlikte gelen optik kabloyla bağlantı kurabilirsiniz.;18
+https://shiftdelete.net/p34;7;Teknik özellikler Ses çıkışı 4.1 çevresel ses çift subwoofer Bağlantı seçenekleri Bluetooth 3.0 Optik SPDIF dijital Ses gücü 2x 20 W woofer 4x 20 W 4 kanal hoparlör Ebatlar 700 X 35 X 320 mm Aksesuarlar Kablo toplayıcı uzaktan kumanda güç kablosu optik kablo Evinizde nasıl bir hoparlör sistemi kullanıyorsunuz?;40
+https://shiftdelete.net/p35;1;04 Mayıs 2019 Cumartesi 10 00 Son yıllarda ciddi bir kan kaybı yaşayarak rakipleri karşısında gerileme yaşayan HTC geçtiğimiz Aralık ayında akıllı telefon stratejisini değiştirdiğini açıklamıştı.;22
+https://shiftdelete.net/p35;2;Bu strateji üst HTC U12 Plus ve U12 Life modellerinin ömrünü uzatıyor.;10
+https://shiftdelete.net/p35;3;Yani her iki cihaz HTC tarafından ön plana çıkarılmaya devam ediliyor.;11
+https://shiftdelete.net/p35;4;Buna ek olarak 2019 yılı içerisinde yeni amiral gemisi ve orta seviye akıllı telefonların tanıtımının gerçekleştirileceği belirtildi.;16
+https://shiftdelete.net/p35;5;Son dönemde Geekbench’te ortaya çıkan bilinmeyen HTC modellerine bir yenisi daha eklendi.;11
+https://shiftdelete.net/p35;6;HTC Helio P35’li bir telefon üzerinde çalışıyor!;6
+https://shiftdelete.net/p35;7;HTC 2Q741 model numarasına ve 6 GB RAM’e sahip olan telefonun MediaTek Helio P35 işlemciden güç aldığı görülüyor.;14
+https://shiftdelete.net/p35;8;12 nm fabrikasyon süreci ile üretilen ve 2.3 GHz hızında çalışan sekiz çekirdekli bir işlemci olan Helio P35 Cortex A53 çekirdeklerine ve IMG PowerVR GE8320 grafik birimine ev sahipliği yapıyor.;25
+https://shiftdelete.net/p35;9;Geçtiğimiz ay Snapdragon 710’dan güç alan ve 6 GB RAM’e sahip olan bir model 2Q7A100 model numarasıyla ortaya çıkmıştı.;15
+https://shiftdelete.net/p35;10;HTC aynı cihazın hem Snapdragon hem MediaTek işlemciden güç olan sürümünü geliştiriyor olabilir.;13
+https://shiftdelete.net/p35;11;Android 9 Pie ile çalışan cihazlar hakkında bilinenler şu anda bunlar ile sınırlı.;12
+https://shiftdelete.net/p36;1;Kodak aksiyon kameraları pazarına hızlı bir giriş yaparak dikkat çekici bir ürün tanıttı.;13
+https://shiftdelete.net/p36;2;Macera tutkunlarının ilgisini çekecek bu ürün 360 derece video kaydedebilen PixPro SP360.;10
+https://shiftdelete.net/p36;3;Giderek yaygınlaşan 360 derecelik kameralar ...;4
+https://shiftdelete.net/p38;1;24 Mayıs 2018 Perşembe 15 00 İlk görüşte aşık olacağınız Ferrari SP38 cayır cayır yanan ve markanın klasikleşmiş kırmızı rengi ile kesinlikle göz kamaştırıyor.;19
+https://shiftdelete.net/p38;2;Bu çok özel spor otomobilden sadece 1 adet olduğunu da belirtelim.;10
+https://shiftdelete.net/p38;3;Ferrari SP38 kendisine hayran bırakıyor!;4
+https://shiftdelete.net/p38;4;Ferrari otomobili en sadık müşterilerinden birisi için özel olarak ürettiklerini ifade ediyor.;12
+https://shiftdelete.net/p38;5;Bu şanslı kişinin kimliği ise açıklanmıyor.;6
+https://shiftdelete.net/p38;6;Kısacası bu harika otomobili kazara nerde görme şansımız olur ya da olur mu bilemiyoruz.;14
+https://shiftdelete.net/p38;7;Ferrari 488 GTB modelindeki çift turbo V8 motorun kullanıldığı özel yapım otomobil tamamen yeni bir gövde yapısıyla çok daha fütüristik bir imaja bürünmüş.;21
+https://shiftdelete.net/p38;8;Motorun detayları ise paylaşılmıyor ancak 488 modelinin 3.9 litre hacminde 660 beygir gücünde olduğunu not olarak düşelim.;14
+https://shiftdelete.net/p38;9;488 şasesinden gelen yan hava delikleri de yine örtülmüş durumda Çift ara soğutucu ise F40 modelinden esinlenmiş.;15
+https://shiftdelete.net/p38;10;Öte yandan arka tarafın görüş açısı neredeyse yok gibi desek yeridir.;11
+https://shiftdelete.net/p38;11;Arkada kullanılan 3 katman motorun üstünü kapatırken aynısını görüş alanına da uygulamış.;11
+https://shiftdelete.net/p38;12;Bu haliyle otomobil Lotus Evora modelini de bir miktar anımsatıyor.;10
+https://shiftdelete.net/p38;13;Aracın çizgileri ve boyutları büyük benzerliğe sahip.;7
+https://shiftdelete.net/p38;14;Ferrari SP38 ilk kez 26 Mayıs tarihinde İtalya Como Gölü’ndeki tarihi araçların gösterimi de yapılan Concorso d’Eleganza Villa d’Este otelinde kendisini gösterecek.;17
+https://shiftdelete.net/p39;1;Samsung mega dinamik kontrastlı 100Hz plazma televizyonu olan B450 Plazma TV ve P390 DVD player ile evde sinema keyfinize keyif katmayı amaçlıyor.;19
+https://shiftdelete.net/p39;2;Her görüntüyü zengin detayları gerçek siyah ve beyaz ...;8
+https://shiftdelete.net/p40;1;26 Mart 2020 Perşembe 14 33 Huawei P Serisi ailesinin yeni modellerini tanıttı.;9
+https://shiftdelete.net/p40;2;P40 Serisi’nin tanıtıldığı etkinlikte biz de yeni modelleri değerlendirdik.;7
+https://shiftdelete.net/p40;3;Saat 16 00’da başlayan Huawei canlı yayını ile yeni model ailesinin tüm özelliklerine yakından baktık.;13
+https://shiftdelete.net/p40;4;Huawei P40 Serisi’nin 26 Mart günü TSİ 16 00’da tanıtılacağı daha önce duyurulmuştu.;8
+https://shiftdelete.net/p40;5;Düzenlenen online global lansman için beklenen gün geldi.;8
+https://shiftdelete.net/p40;6;Huawei Tüketici Elektroniği Grubu CEO’su Richard Yu sözcülüğünde gerçekleştirilen yayını biz de canlı olarak izledik.;14
+https://shiftdelete.net/p40;7;Telefonların özelliklerini videonun altında bulabilirsiniz.;5
+https://shiftdelete.net/p40;8;Huawei P40 özellikleri Huawei’nin amiral gemisinin 6.1 inçlik OLED ekranı Full HD+ yani 1080×2340 piksel çözünürlük sunarken herhangi bir kavis bulunmuyor.;17
+https://shiftdelete.net/p40;9;Bu sayede Huawei P40 ile düz ekranlı telefonları seven kullanıcıların beğenisi kazanılıyor.;11
+https://shiftdelete.net/p40;10;60 Hz yenileme hızı olan bu ekran aynı zamanda parmak izi okuyucuyu barındırıyor.;12
+https://shiftdelete.net/p40;11;8 GB RAM ve 128 GB depolama alanı ile gelen telefon Kirin 990 işlemciden güç alıyor.;13
+https://shiftdelete.net/p40;12;Cihazın arka tarafında 50 Megapiksel f/1.9 diyaframa sahip geniş açılı RYYB ana kamera yer alıyor.;13
+https://shiftdelete.net/p40;13;Buna 16 Megapiksel f/2.2 diyaframa sahip ultra geniş açılı ve 8 Megapiksel f/2.4 diyaframa sahip telefoto kamera eşlik ediyor.;15
+https://shiftdelete.net/p40;14;3x optik yakınlaştırma yapabilen telefoto kameranın OIS ile gelmesi büyük avantaj.;10
+https://shiftdelete.net/p40;15;Ön tarafta ise 32 Megapiksel f/2.2 diyaframa sahip kamera ve derinlik algılama sensörü yer alıyor.;13
+https://shiftdelete.net/p40;16;3800 mAh kapasiteli bataryadan beslenen telefon 22.5W hızlı şarj desteğine sahip.;9
+https://shiftdelete.net/p40;17;Maalesef kablosuz şarj teknolojisini bu telefonda göremiyoruz.;7
+https://shiftdelete.net/p40;18;Çift ön kamerasını ekrana açılan delikte gördüğümüz telefonda 6.58 inç boyutunda ve 1200 x 2640p çözünürlüğünde OLED ekran bulunuyor.;16
+https://shiftdelete.net/p40;19;Bu ekran DCI P3 renk gamını desteklerken HDR10+ teknolojisini de destekliyor.;9
+https://shiftdelete.net/p40;20;Huawei P40 Pro’nun ekranı 90 Hz yenileme hızına sahip.;6
+https://shiftdelete.net/p40;21;Bu da telefonun daha akıcı ve hızlı bir ekran deneyimi sunmasına sebep oluyor.;13
+https://shiftdelete.net/p40;22;Huawei P30 Pro modeli ise 60 Hz yenileme hızına sahip bir ekrana ev sahipliği ediyordu.;13
+https://shiftdelete.net/p40;23;Bu model de tabii ki Kirin 990‘dan güç alıyor.;8
+https://shiftdelete.net/p40;24;8 GB RAM ile birlikte bizleri karşılayan telefonun depolama alanı tarafında ise UFS 3.0 standartında 128 GB ve 256 GB olmak üzere iki farklı varyasyonu bulunuyor.;22
+https://shiftdelete.net/p40;25;Telefonun hafızası Huawei tarafından satılan Nano Memory kartları ile birlikte 256 GB’a kadar artırılabiliyor.;12
+https://shiftdelete.net/p40;26;Telefonun arkasında 4 önünde ise çift kameraya yer veriliyor.;8
+https://shiftdelete.net/p40;27;Arkadaki kameralardan biri 50 Megapiksel çözünürlüğünde ve f/1.9 diyafram açıklığına sahip.;9
+https://shiftdelete.net/p40;28;Ayrıca telefonda ultra geniş açılı kameraya da yer veriliyor.;9
+https://shiftdelete.net/p40;29;Bu ultra geniş açılı kamera ise 40 Megapiksel çözünürlüğünde ve f/1.8 diyafram açıklığında.;11
+https://shiftdelete.net/p40;30;Telefoto kamera tarafına baktığımızda 12 Megapiksel çözünürlüğünde ve f/3.4 diyafram açıklığında.;9
+https://shiftdelete.net/p40;31;Öndeki çift kamera ise şu şekilde bir adet 32 Megapiksel çözünürlüğünde ve f/2.2 diyafram açıklığına sahip bir kamera ve ToF kamera mevcut.;20
+https://shiftdelete.net/p40;32;Huawei P40 Pro’nun batarya kapasitesi 4.200 mAh şeklinde.;5
+https://shiftdelete.net/p40;33;40W hızlı kablolu şarj desteğine sahip olan telefon kablosuz şarj tarafında da 40W desteğe sahip.;13
+https://shiftdelete.net/p40;34;P40 Pro Plus 6.58 inçlik 2640 x 1200 piksel çözünürlüğünde OLED ekrana sahip.;9
+https://shiftdelete.net/p40;35;Bu ekran 90 Hz yenileme hızı sunuyor.;6
+https://shiftdelete.net/p40;36;Ayrıca HDR10+ desteği ve DCI P3 desteği de mevcut.;7
+https://shiftdelete.net/p40;37;19.8 9 en/boy oranına sahip ekranın 441 ppi yoğunluk sunduğunu da belirtelim.;8
+https://shiftdelete.net/p40;38;Gücünü Kirin 990’dan alan telefonda 8 GB RAM kullanılıyor.;7
+https://shiftdelete.net/p40;39;256 GB ve 512 GB dahili depolama alanı bulunuyor.;7
+https://shiftdelete.net/p40;40;Ayrıca microSD kart girişi ile bu hafızayı 256 GB’a kadar artırmak mümkün.;10
+https://shiftdelete.net/p40;41;Bu arada telefonda UFS 3.0 desteği olduğunu da belirtelim.;8
+https://shiftdelete.net/p40;42;Telefon 50 Megapiksellik bir ana kameraya sahip.;6
+https://shiftdelete.net/p40;43;Ana kameraya 40 Megapiksel çözünürlüğünde bir ultra geniş açılı lens eşlik ediyor.;11
+https://shiftdelete.net/p40;44;Bir diğer kamera ise 240 mm’lik 8 Megapiksel çözünürlüğe f/4.4 diyafram değerine sahip telefoto lens.;11
+https://shiftdelete.net/p40;45;Telefon 10x gerçek optik yakınlaştırma özelliği ile ışık yolunu yüzde 178 oranında genişleten yenilikçi periskop tasarımına ve 100x SuperZoom dizisine sahip.;18
+https://shiftdelete.net/p40;46;Diğer telefoto lens de 8 Megapiksel çözünürlüğünde ve f/2.4 diyafram değerinde.;9
+https://shiftdelete.net/p40;47;80 mm’lik lens 3x optik yakınlaştırma yapıyor.;4
+https://shiftdelete.net/p40;48;Bu lens de OIS desteğine sahip.;6
+https://shiftdelete.net/p40;49;Bu kamera kurulumunu ToF sensör tamamlıyor.;6
+https://shiftdelete.net/p40;50;Telefon 4.200 mAh’lik bataryadan besleniyor.;3
+https://shiftdelete.net/p40;51;Bu batarya tabii ki ters şarj destekli.;7
+https://shiftdelete.net/p40;52;Ayrıca 40W kablosuz hızlı şarj desteği de bulunuyor.;7
+https://shiftdelete.net/p41;1;Eğer 200 bin $ ınız varsa dünyaca ünlü spor otomobil markası McLaren in yeni modeli MP4 12C lerden bir tane satın alabilirsiniz demektir.;19
+https://shiftdelete.net/p41;2;McLaren yetkilileri 200 bin $ lık aracınızı satın lamadan önce isteğinize göre ...;10
+https://shiftdelete.net/p42;1;Otomobil sporlarına ilginiz varsa mutlaka Formula 1 heyecanına siz de en az bir kez kapılmışsınızdır.;14
+https://shiftdelete.net/p42;2;Dünyanın en güçlü araçları en yetenekli pilotlarının yönetiminde makinelerin ve insanın üstünlüğünü göstermek için bir ...;15
+https://shiftdelete.net/p43;1;21 Mayıs 2016 Cumartesi 11 00 Son yıllarda attığı adımlar ile son kullanıcıdan ziyade iş alanlarına özel cihazlar üretmeyi amaçlayan Dell yeni P4317Q model monitörünü duyurdu.;21
+https://shiftdelete.net/p43;2;43 inç ekran boyutuna sahip olan devasa monitörün en büyük farkı 4 farklı kaynaktan gelen görüntüyü aynı ekranda görüntüleyebilmesi.;17
+https://shiftdelete.net/p43;3;Örnek vermek gerekirse iki farklı bilgisayarı video kamerayı ve telefonunuzu bu monitöre bağlayarak aynı anda hepsinden gelen içeriği görüntüleyebiliyorsunuz.;19
+https://shiftdelete.net/p43;4;Oyun tarafında beğenilmeyecek bir monitör!;5
+https://shiftdelete.net/p43;5;Özellikle finansal firmaların ve yazılımcıların kullanımına özel geliştirilen monitör 60 Hz yenileme hızının yanı sıra 8 ms tepkime süresine sahip.;18
+https://shiftdelete.net/p43;6;1000 1 kontrast oranına yer verilen P4317Q’nun sunduğu maksimum çözünürlük 4K yani 3840 x 2160 olarak belirlenmiş.;11
+https://shiftdelete.net/p43;7;1 06 milyar renk desteğinin yanı sıra oldukça zengin bağlantı noktalarına sahip olan monitörde 1 adet DisplayPort 1 adet mini DisplayPort 2 adet HDMI 1 adet VGA ve 4 adet USB 3.0 girişi yer alıyor.;27
+https://shiftdelete.net/p43;8;Ayrıca 1 adet ses girişi 1 adet kulaklık çıkışının yanı sıra rakiplerinde pek rastlamadığımız 1 adet RS232 girişi ve upstream için özel konumlandırılmış 1 adet USB 3.0 portu monitörde bulunan bağlantılar arasında yer alıyor.;28
+https://shiftdelete.net/p43;9;8 watt gücünde iki adet hoparlöre yer verilen monitörde bulunan RS232 bağlantısının uzaktan yönetim ve izleme için yerleştirildiği belirtiliyor.;17
+https://shiftdelete.net/p43;10;Ayrıca yetkililer kullanıcıların bu monitör ile yüzde 30’a varan oranda enerji tasarrufu elde edeceklerini belirtiyorlar.;14
+https://shiftdelete.net/p43;11;Tabi bu kadar özelliğin tahmin edilebileceği gibi yüksek bir bedeli var.;11
+https://shiftdelete.net/p43;12;Dell P4317Q 1.349 dolar fiyat etiketi ile satışa sunulacak.;7
+https://shiftdelete.net/p43;13;Dell P4317Q’nun özelliklerini ve tasarımını beğendiniz mi?;6
+https://shiftdelete.net/p45;1;11 Ağustos 2018 Cumartesi 09 00 Intel katı hal diskleri ya da kısa ve daha yaygın adı ile SSD sürücüler için yeni bir şekil icat etmiş durumda.;23
+https://shiftdelete.net/p45;2;Yaklaşık 30 santimetre uzunluğundaki cetvel şekilli Intel 32 TB DC P4500 hem yoğunluğu hem de şekli ile veri merkezlerine büyük katkı sağlayacak.;19
+https://shiftdelete.net/p45;3;Başta da belirttiğimiz üzere Intel 32 TB DC P4500 aslen veri merkezleri için tasarlanmış bir SSD modeli.;15
+https://shiftdelete.net/p45;4;Donanımın veri merkezlerinin artan kapasite servis ve termal verimlilik ihtiyaçlarını karşılamak üzere öne çıkan bir çözüm olduğuna vurgu yapılıyor.;19
+https://shiftdelete.net/p45;5;Bu cetvellerden 32 tanesini bir araya getirerek 1000 terabayt yani 1 petabayt veri depolamanın mümkün olduğunu da belirtelim.;15
+https://shiftdelete.net/p45;6;Bu tasarımın önemli bir avantajı ise soğutma maliyetlerini azaltmak olarak gösteriliyor.;11
+https://shiftdelete.net/p45;7;Ayrıca şirket bu sürücüsünün geleneksel 2.5 inç sürücülerin yerine geçmesini istiyor.;10
+https://shiftdelete.net/p45;8;Tahmin edeceğiniz üzere bu SSD modeline erişmek şu an için mümkün değil.;12
+https://shiftdelete.net/p45;9;32 TB DC P4500 sadece kurumsal bir ürün durumunda.;7
+https://shiftdelete.net/p45;10;Donanım PCIe NVMe bağlantısı kullanıyor olsa da bir son kullanıcı sistemine uyması kesinlikle imkansız.;14
+https://shiftdelete.net/p45;11;Yeni form faktörü sadece 1U sunucu rafları ile uyumlu.;8
+https://shiftdelete.net/p45;12;Ölçeklenebilir verimlilik yönetimi için hot plug hot removal ve LED desteği de müdahale konusunda kolaylıklar sağlıyor.;16
+https://shiftdelete.net/p45;13;Intel tarafından Intel 32 TB DC P4500 fiyat bilgisi ise açıklanmıyor.;9
+https://shiftdelete.net/p46;1;EISA Ödülleri Avrupa da yayınlanan en çok satan tüketici elektroniği dergilerinin editörlerinden oluşan jüri tarafından verilen oylara göre dağıtılıyor.;19
+https://shiftdelete.net/p46;2;EISA pazardaki en iyi donanım ve cihazları bir dizi kategori altında değerlendirerek ...;12
+https://shiftdelete.net/p47;1;Samsung un yeni Bluetooth Kulaklığı WEP470;
+https://shiftdelete.net/p47;2;İnce hafif ve küçük olan Samsung WEP470 te ...;7
+https://shiftdelete.net/p49;1;ShiftDelete.Net olarak Canon ortaklığıyla hazırladığımız yazıcı ödüllü yarışmamızın sonuçlarını açıklama vakti geldi.;11
+https://shiftdelete.net/p49;2;Canon un MG5250 MP495 ve MP280 model yazıcılarını belki de siz kazanmış olabilirsiniz!;10
+https://shiftdelete.net/p49;3;Daha önce duyurduğumuz üzere yarışmada doğru ...;6
+https://shiftdelete.net/p50;1;06 Mart 2018 Salı 01 00 Dayanıklı akıllı telefonlar kategorisinin bir diğer üyesi olarak karşımıza çıkan Oukitel WP5000 hiçbir ortam ve koşulda kullanıcısını yarı yolda bırakmayacak gibi gözüküyor.;23
+https://shiftdelete.net/p50;2;Oukitel WP5000 özellikleri neler?;3
+https://shiftdelete.net/p50;3;Oukitel U18 adıylada ilave ettiği uygun fiyatlı birklonuna da sahip şirketin bu sefer ki modeli oldukça farklı.;16
+https://shiftdelete.net/p50;4;Gerçi bu sefer de cihazıntarafından üretilen Land Rover Explore modelini oldukça anımsattığını söyleyebiliriz.;13
+https://shiftdelete.net/p50;5;Neyse ki ek kapakları yok.;5
+https://shiftdelete.net/p50;6;5.7 inç 18 9 ekran ile gelen akıllı telefon gücünü 8 çekirdekli Helio P25 çipsetten alıyor.;11
+https://shiftdelete.net/p50;7;6 GB RAM ve 64 GB dahili depolama alanının sunulduğu cihazda 5000 mAh bataryaya yer verilmiş.;13
+https://shiftdelete.net/p50;8;21 Megapiksel MP ile 5 MP sensörden oluşan çift arka kamera ve 13 MP ön kamerada oldukça iyi gözüküyor.;16
+https://shiftdelete.net/p50;9;Ürünün kutudan Android 7.1 ile çıkacağını da belirtelim.;7
+https://shiftdelete.net/p50;10;WP5000 dayanıklılığını ise çinko alaşımlı ve askeri 3 kat dayanıklı plastiğe borçlu durumda.;11
+https://shiftdelete.net/p50;11;Cihaz bu yapısı sayesinde IP68 sertifikasını da kapmış durumda.;8
+https://shiftdelete.net/p50;12;Şu an için çıkış tarihi ve fiyatı belirsiz olan WP5000 bakalım beklediği ilgiyi görecek mi?;14
+https://shiftdelete.net/p50;13;Oukitel marka bu dayanıklı akıllı telefonu beğendiniz mi?;8
+https://shiftdelete.net/p52;1;Asus cep telefonları veya cep bilgisayarları ile artık konuya nereden bakarsanız ona göre değişiyor yeni modelleriyle beraber son kullanıcıya daha fazla seçenek sunuyor.;23
+https://shiftdelete.net/p52;2;Yeni gelen modeli olan P526 ile GPS‘e sahip nispeten daha küçük bir Windows Mobile işletim sistemli bir telefon.;16
+https://shiftdelete.net/p52;3;Öne çıkan özellikleri Windows Mobile 6 işletim sistemi kullanması ve içinde bir GPS alıcısı bulundurması.;14
+https://shiftdelete.net/p52;4;Bunun yanında ürün çoğunluğu Asus tarafından Türkiye’de Türkçe hâle getirilmiş bir işletim sistemi kullanıyor.;13
+https://shiftdelete.net/p52;5;Siz fazladan bir iş yapmıyorsunuz;
+https://shiftdelete.net/p52;6;Ürünle ilgili olarak eksikliği hissedilebilecek tek şey şık tasarımı ve yazılım desteğine rağmen üründe tümleşik WiFi olmaması.;17
+https://shiftdelete.net/p53;1;24 Mayıs 2013 Cuma 11 00 Intel ve AMD işlemci arenasında iki büyük rakip.;10
+https://shiftdelete.net/p53;2;Bu rekabet artık mobil cihazlara da gelmiş durumda.;8
+https://shiftdelete.net/p53;3;Intel‘in uzun zamandır piyasada bulunan Ultrabook konseptine karşı AMD‘nin geliştirdiği UltraThin konsepti hem daha uygun hem de daha iyi grafik gücü vaad ediyor.;21
+https://shiftdelete.net/p53;4;HD Radeon 7400G dahili grafik birimi AMD‘nin hem grafik işlemci hem de saf işlemci çekirdeklerinden oluşan A4 APU‘sunu kullanan Samsung NP535U3C DX 11 destekli Radeon HD 7400G‘den gücünü alıyor.;22
+https://shiftdelete.net/p53;5;Intel‘in Ultrabook tabanlı işlemcilerinde kullandığı HD Graphics 4000‘den daha iyi bir grafik performansı sunan A4 APU‘su saf işlemci çekirdek gücü konusunda da yeterli performansa sahip.;21
+https://shiftdelete.net/p53;6;Turbo Core teknolojisi Intel‘deki Turbo Boost‘un AMD‘deki karşılığı Turbo Core teknolojisi.;8
+https://shiftdelete.net/p53;7;İncelediğimiz üründeki işlemci 1.9 GHz standart çalışma hızına sahipken Turbo ile hızını 2.6 GHz‘e kadar çıkartabiliyor.;13
+https://shiftdelete.net/p53;8;Uygun fiyatlı güçlü ve hafif Sadece 1.52 kg ağırlığında olan Samsung NP535U3C 4 GB RAM ve 13.3 inç büyüklüğündeki 1366 x 768 piksel çözünürlüğündeki LED aydınlatmalı ekrana sahip.;22
+https://shiftdelete.net/p53;9;HDMI 1 adet USB 3.0 ve 2 adet USB 2.0 Ethernet çıkışı gibi giriş çıkışlara yer verilen üründe ayrıca 1.3 Megapiksel kamera ve 4 watt gücünde dahili hoparlör kullanılıyor.;23
+https://shiftdelete.net/p53;10;Tüm bunları da neredeyse bin lira seviyesinde fiyata sahip olabiliyorsunuz.;10
+https://shiftdelete.net/p53;11;Teknik Özellikler İşlemci AMD Dual Core A4 4355M Grafik İşlemci Radeon HD 7400G RAM / Depolama 4 GB DDR3 / 500 GB İşletim Sistemi Windows 8 Ekran 13.3 inç 1366 x 768 piksel Giriş Çıkış HDMI 2x USB 2.0 1x USB 3.0 çoklu kart okuyucu Ethernet Ağırlık 1.52 KG Pil 4 hücreli Fiyat 999 – 1400 TL Aralığı Ürün pek çok indirim ve kampanya ile 999 TL civarına düşmekte Sonuç Ürünü tabiki de 2000 ya da daha yüksek fiyatlı cihazlarla karşılaştırmak biraz haksızlık olsa da dahili grafik işlemcisi pek çok oyunda giriş seviyesi beklentileri karşılıyor.;72
+https://shiftdelete.net/p53;12;Hatta bazı durumlarda HD 4000’den daha iyi denilebilir.;7
+https://shiftdelete.net/p53;13;A4 işlemcisi firmanın giriş seviyesi işlemcilerinden.;5
+https://shiftdelete.net/p53;14;Daha fazla performans isteyenlerin A6 A8 ya da A10 tabanlı işlemcili modellere yönelmelerini tavsiye ediyorum.;12
+https://shiftdelete.net/p53;15;Samsung NP535U3C A01TR sizce başarılı bir ürün mü?;6
+https://shiftdelete.net/p54;1;Archos un CEO su yeni akıllı telefonu Quecha Phone un tanıtımı esnasında yanlış bilgilendirmenin kurbanı oldu.;16
+https://shiftdelete.net/p54;2;Telefonun darbelere ve suya dayanıklı olduğunu kanıtlamak isteyen CEO basın mensuplarının önünde telefonunu suya atınca olanlar oldu.;17
+https://shiftdelete.net/p54;3;...;0
+https://shiftdelete.net/p55;1;04 Haziran 2009 Perşembe 12 29 Günlerdir P55 anakartlar hakkında birçok dedikodu yapılıyordu.;8
+https://shiftdelete.net/p55;2;Bazıları P55 yongalarının SLI desteği olmayacağını savunuyordu.;6
+https://shiftdelete.net/p55;3;Dedikodular gerçek olmadı ve Intel Computex fuarında SLI destekli P55 yongasına sahip ürünlerini kullanıcıların beğenisine sundu.;15
+https://shiftdelete.net/p55;4;Aslında anakartlar üzerine baktığımızda NF200 yongasını göremedik.;6
+https://shiftdelete.net/p55;5;Bunun başlıca sebebi Nvidia’nın P55 yongasına SLI yetkilendirmesi yapmamasından kaynaklanıyor.;8
+https://shiftdelete.net/p55;6;Ama önümüzdeki günlerde bu sertifika Nvidia tarafından sağlanacak.;8
+https://shiftdelete.net/p55;7;SLI ekran kartı kullanıyor musunuz?;5
+https://shiftdelete.net/p55;8;Kullanıyorsanız yorumlarınızı buradan paylaşın.;4
+https://shiftdelete.net/p56;1;03 Mart 2011 Perşembe 08 50 Zyxel’in yeni ürünü olan WAP5605 yüksek çözünürlüklü videoları kablosuz ortamına aktarabilen bir erişim noktası.;14
+https://shiftdelete.net/p56;2;5 GHz kablosuz bant teknolojisini kullanan bu ürün NAS cihazlarından alınan HD videoları oyun konsollarına oradan da yeni nesil televizyonlara kesintisiz bir şekilde aktarabilmesi ile ilgi çekiyor.;26
+https://shiftdelete.net/p56;3;Herkese 100 Megabit Ne Zaman?;4
+https://shiftdelete.net/p56;4;802.11n teknolojisine de uyumlu olan bu ürün 1080p video içeriklerini herhangi bir takılma olmadan seyretmenize olanak veriyor.;15
+https://shiftdelete.net/p56;5;Videoyu İzleyin Multimedya kablosuz ev ağları konusunda uzman olan Celeno Communications’ın CLI820 adlı Wi Fi yongasını kullanan Zyxel WAP5606 OptimizAIR teknolojisi sayesinde IPTV standardının şartlarını da sağlamış oluyor.;25
+https://shiftdelete.net/p56;6;Bu tarz ürünlerde en çok hangi özelliklere dikkat ederdiniz?;9
+https://shiftdelete.net/p57;1;27 Aralık 2010 Pazartesi 18 30 Günümüzden onlarca yıl önce tarım araçları üreten İtalyan boğası Lamborghini Ferrari’nin en büyük rakibi olup çıktı.;17
+https://shiftdelete.net/p57;2;Kurucu Ferruccio Lamborghini bir Ferrari hayranıydı.;6
+https://shiftdelete.net/p57;3;Hatta Ferrari araçlarından oluşan bir koleksiyona sahipti.;7
+https://shiftdelete.net/p57;4;Lakin 1950’li yıllarda İtalyan süper otomobillerinde debriyaj problemi yaşanıyordu.;8
+https://shiftdelete.net/p57;5;Ferruccio Lamborghini bir araç üreticisi olarak soruna çözüm buldu.;9
+https://shiftdelete.net/p57;6;Ferrari’den Çirkin Yanıt Ne olduysa ondan sonra oldu.;7
+https://shiftdelete.net/p57;7;Ferruccio Lamborghini hayranı olduğu şirketin başkanı Enzo Ferrari ile görüşmek için randevu talep etti.;14
+https://shiftdelete.net/p57;8;Enzo Ferrari’nin yanıtı çok çirkindi “Bir traktör üreticisi mi bana işimi öğretecek?”.;9
+https://shiftdelete.net/p57;9;Böylece Ferrari doğal düşmanını yaratmış oldu.;6
+https://shiftdelete.net/p57;10;Lamborghini spor araç üretimine girdi ve Ferrari’nin pastadaki payı daraldıkça daraldı.;10
+https://shiftdelete.net/p57;11;Gallardo LP570 4 Spyder Performante Lamborghini Gallardo LP570 4 Spyder Performante doğrudan Ferrari 458 Italia’nın rakibi olmak için geliştirilmiş.;13
+https://shiftdelete.net/p57;12;Hafifliğiyle ünlü Super Leggara’dan bile 78 kilo daha az hafif.;8
+https://shiftdelete.net/p57;13;Bunda seramik frenlerin ve tüy kıvamındaki jantların payı büyük.;9
+https://shiftdelete.net/p57;14;10 silindirli 5.2 litre motoru 570 beygir güç üretebiliyor.;6
+https://shiftdelete.net/p57;15;330 kilometre son sürate ulaşan otomobil 100 kilometre hıza yalnızca 3.7 saniyede tırmanıyor.;10
+https://shiftdelete.net/p57;16;Sürüş Gallardo LP570 4 Spyder Performante isimli uzay gemisi kılıklı otomobilin sürüşü inanılmaz derecede keyifli kılınmış otoritelerin yalancısıyız .;16
+https://shiftdelete.net/p57;17;Yol tutuş F1’de bile göze batmayacak seviyede.;6
+https://shiftdelete.net/p57;18;Elbette ABS ESP Çekiş Kontrolü gibi elektronik oyuncaklar var.;9
+https://shiftdelete.net/p57;19;Hepsi kapatılabiliyor ama böyle bir gücü elle kontrol etmeye çalışmanın akıl kârı olmadığını söyleyebiliriz.;14
+https://shiftdelete.net/p57;20;458 Italia Gallardo LP570 4 Spyder Performante’ye Karşı Super Leggara da Ferrari 458 Italia avcısı olarak üretilmiş ve kaydadeğer bir başarı yakalamıştı.;17
+https://shiftdelete.net/p57;21;Lakin Gallardo LP570 4 Spyder Performante 78 kilo daha hafif ve 10 beygir daha güçlü.;11
+https://shiftdelete.net/p57;22;Ferrari 458 Italia harika bir otomobil olabilir ama otoritelere göre Lamborghi’nin kara roketi daha iyi daha hızlı ve kesinlikle daha keyifli.;19
+https://shiftdelete.net/p57;23;Yine de 458 Italia konfor konusunda biraz öne çıkıyor.;8
+https://shiftdelete.net/p57;24;Fiyat Aslında bu konuyu açmak dahi istemiyoruz zira hayallerimiz Jenga’da yanlış blok çekmişiz gibi yerle bir oluyor.;16
+https://shiftdelete.net/p57;25;Gallardo LP570 4 Spyder Performante’nin İngiltere fiyatı 200.000 sterlin.;5
+https://shiftdelete.net/p57;26;Yani 500.000 TL seviyesinde.;3
+https://shiftdelete.net/p57;27;Oldu da uzay gemisi ülkemize geldi Vergiler yüzünden bu fiyat 1.000.000 TL seviyesine yaklaşacaktır.;13
+https://shiftdelete.net/p57;28;Biz iyisi mi yarış simülasyonlarında Lambo kullanmaya devam edelim.;9
+https://shiftdelete.net/p57;29;Ferrari mi Lamborghini mi?;4
+https://shiftdelete.net/p57;30;Tercihiniz nedir?;2
+https://shiftdelete.net/p58;1;Sony’nin suya ve toza dayanıklı akıllı telefonu kendi çapında bir rekor kırmayı başardı.;12
+https://shiftdelete.net/p58;2;Geçtiğimiz haftalarda buradaki yazımızda 2014’ün en dayanıklı amiral gemisi seçtiğimiz Xperia Z2 bizi yalancı çıkartmadı.;13
+https://shiftdelete.net/p58;3;Tam 6 ...;1
+https://shiftdelete.net/p60;1;26 Ağustos 2018 Pazar 19 43 MediaTek’in Şubat ayında resmi tanıtımını yaptığı ve kısa bir süre önce Casper’ın VIA A3 Plus modeli ile deneyimleme imkanı bulduğumuz Helio P60 işlemcisinin neler sunduğuna bakıyoruz!;24
+https://shiftdelete.net/p60;2;MediaTek Helio P60 inceleme videomuzda bu işlemciyi yorumluyoruz.;7
+https://shiftdelete.net/p60;3;MediaTek Helio P60 performans testi videosu yayında.;6
+https://shiftdelete.net/p60;4;MediaTek Helio P60 özellikleri TMSC fabrikalarında 12 nm üretim süreci ile üretilen Helio P60 işlemcisi performans ve enerji verimliliği konusunda MediaTek CorePilot 4.0 teknolojisinden faydalanıyor.;21
+https://shiftdelete.net/p60;5;big.LITTLE mimarisi ile üretilen bu işlemci sekiz çekirdekli yapıya sahip.;9
+https://shiftdelete.net/p60;6;Dörder çekirdekli iki kümeden oluşan işlemci 2.0 GHz frekans hızına sahip 4 tane Cortex A73 çekirdeğinden ve yine 2.0 GHz frekans hızında çalışan 4 tane Cortex A53 çekirdeğinden oluşuyor.;23
+https://shiftdelete.net/p60;7;Grafik yongası ise bu işlemcinin önemli avantajlarından biri.;8
+https://shiftdelete.net/p60;8;800 MHz frekans hızında çalışan Mali G72 MP3 grafik birimi oyunlarda sınıfının en iyi performansını sunan grafik birimlerinden biri.;16
+https://shiftdelete.net/p60;9;MediaTek Helio P60 işlemcisi önceki model olan P23 modeline kıyasla yüzde 70 oranında daha yüksek performans sunuyor.;14
+https://shiftdelete.net/p60;10;Güç yönetimi noktasında da yüksek güç tüketimli işlemlerde yüzde 25 güç tasarrufu sağlarken genel toplamda ise yüzde 12 verimlilik sağlıyor.;18
+https://shiftdelete.net/p60;11;MediaTek Helio P60 inceleme MediaTek Helio P60 inceleme videomuzda 2018 model bu işlemcinin neler sunduğuna yakından bakıyoruz.;14
+https://shiftdelete.net/p60;12;İyi seyirler!;2
+https://shiftdelete.net/p60;13;MediaTek Helio P60 performans testi videosu yayında.;6
+https://shiftdelete.net/p60;14;MediaTek Helio P60 ile yapay zeka desteği!;6
+https://shiftdelete.net/p60;15;Helio P60 işlemcisi Multi core AI processing unit yani APU adını verdiği teknoloji sayesinde yapay zeka desteği de sunuyor.;18
+https://shiftdelete.net/p60;16;Görüntü tanımlama yüz tanıma deep learning ve ortam tanıma gibi özelliklere ek olarak davranışa göre performans iyileştirme gibi özellikler ile üretildi.;21
+https://shiftdelete.net/p60;17;APU biriminin en önemli getirisi ise GPU ve CPU üzerinden işlem yükü alarak güç tasarrufu noktasında önemli bir avantaj sunuyor.;20
+https://shiftdelete.net/p60;18;Bu biriminin TensorFlow Caffe Caffe2 TensorFlow Lite ve ONNX gibi yapay zeka altyapılarına da destek sunduğunu belirtelim.;16
+https://shiftdelete.net/p60;19;MediaTek Helio P60 Antutu skoru Helio P60 Antutu testi bu işlemci için yaptığımız testlerin başında geliyor.;14
+https://shiftdelete.net/p60;20;MediaTek’in yeni işlemcisi Antutu testinden 139.218 puan elde etmeyi başardı.;8
+https://shiftdelete.net/p60;21;Genel hatlarıyla MediaTek Helio P60;4
